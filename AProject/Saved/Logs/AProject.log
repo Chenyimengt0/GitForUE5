@@ -6148,3 +6148,697 @@ FPackageName: Skipped package /Game/DemoTemplate/_Core/MI_Intro_Colorway has a v
 [2026.08.29-06.20.05:412][ 26]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.08.29-06.20.05:412][ 26]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
 [2026.08.29-06.20.05:445][ 26]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UE_LocalProject/GitForUE5/AProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: ================================================
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: Total job queries 2,641, among them cache hits 146 (5.53%), DDC hits 330 (12.50%), Duplicates 654 (24.76%)
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: Tracking 1,677 distinct input hashes that result in 1,081 distinct outputs (64.46%)
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: RAM used: 11.74 MiB of 9.50 GiB budget. Usage: 0.12%
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: Shaders Compiled: 1,605
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: Jobs assigned 1,605, completed 1,605 (100%)
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: Average time worker was idle: 17.01 s
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: Time job spent in pending queue: average 17.04 s, longest 46.54 s
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: Job execution time: average 0.46 s, max 6.38 s
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: Job life time (pending + execution): average 17.50 s, max 46.81
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: Shader code size: total 19.229 MiB, numShaders 1,629, average 12.087 KiB, min 1.199 KiB, max 34.535 KiB
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 107.30 s
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: Jobs were issued in 1,605 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: Average processing rate: 14.96 jobs/sec
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: Total thread time: 544.172 s
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: Total thread preprocess time: 39.511 s
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: Percentage time preprocessing: 7.26%
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: Effective parallelization: 5.07 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.422611
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled  441 times, average 0.73 sec, max 1.72 sec, min 0.00 sec)
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 0.58 sec, max 0.63 sec, min 0.53 sec)
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   74 times, average 0.53 sec, max 1.00 sec, min 0.33 sec)
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 59.08% of total time (compiled  441 times, average 0.73 sec, max 1.72 sec, min 0.00 sec)
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.17% of total time (compiled   74 times, average 0.53 sec, max 1.00 sec, min 0.33 sec)
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display:                                               FHWRasterizeMS - 4.29% of total time (compiled  120 times, average 0.19 sec, max 0.25 sec, min 0.11 sec)
+[2026.08.29-06.20.19:119][447]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.66% of total time (compiled  109 times, average 0.18 sec, max 0.43 sec, min 0.10 sec)
+[2026.08.29-06.20.19:120][447]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 2.74% of total time (compiled  109 times, average 0.14 sec, max 0.23 sec, min 0.07 sec)
+[2026.08.29-06.20.19:120][447]LogShaderCompilers: Display: === Material stats ===
+[2026.08.29-06.20.19:120][447]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.08.29-06.20.19:120][447]LogShaderCompilers: Display: Materials Translated:    345
+[2026.08.29-06.20.19:120][447]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2026.08.29-06.20.19:120][447]LogShaderCompilers: Display: Material Translation Only: 0.10 s (49%)
+[2026.08.29-06.20.19:120][447]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.08.29-06.20.19:120][447]LogShaderCompilers: Display: Material Cache Hits: 12 (3%)
+[2026.08.29-06.20.19:120][447]LogShaderCompilers: Display: ================================================
+[2026.08.29-06.20.27:292][915]LogEditorTransaction: Undo Material Editor: Convert
+[2026.08.29-06.20.27:424][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.08.29-06.20.27:634][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.08.29-06.20.33:216][221]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_para: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function ParallaxOcclusionMapping) Missing function input 'Heightmap Texture'
+
+[2026.08.29-06.20.33:220][221]MaterialEditorStats: Error: SM6 (Function ParallaxOcclusionMapping) Missing function input 'Heightmap Texture'
+[2026.08.29-06.20.43:108][740]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_para: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function ParallaxOcclusionMapping) Cannot cast from smaller type float3 to larger type float4.
+
+[2026.08.29-06.20.43:115][740]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_para: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function ParallaxOcclusionMapping) Cannot cast from smaller type float3 to larger type float4.
+
+[2026.08.29-06.20.43:125][740]MaterialEditorStats: Error: SM6 (Function ParallaxOcclusionMapping) Cannot cast from smaller type float3 to larger type float4.
+[2026.08.29-06.20.48:169][  3]LogMaterialEditor: Saving and Compiling material M_para
+[2026.08.29-06.20.48:297][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.08.29-06.20.49:065][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.08.29-06.20.49:086][  3]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.29-06.20.49:149][  3]LogFileHelpers: Saving Package: /Game/Materials/M_para
+[2026.08.29-06.20.49:149][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_para] ([1] browsable assets)...
+[2026.08.29-06.20.49:183][  3]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_para.M_para]
+[2026.08.29-06.20.49:183][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_para]
+[2026.08.29-06.20.49:183][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_para" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para.uasset" SILENT=true
+[2026.08.29-06.20.49:187][  3]LogSavePackage: Moving output files for package: /Game/Materials/M_para
+[2026.08.29-06.20.49:188][  3]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/M_para95183723403DA91556079DADADAA1DDD.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para.uasset'
+[2026.08.29-06.20.49:203][  3]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.940 ms (total: 14.0 sec)
+[2026.08.29-06.20.49:266][  3]LogContentValidation: Enabled validators:
+[2026.08.29-06.20.49:266][  3]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.29-06.20.49:266][  3]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.29-06.20.49:266][  3]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.29-06.20.49:266][  3]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.29-06.20.49:266][  3]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.29-06.20.49:266][  3]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.29-06.20.49:266][  3]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.29-06.20.49:266][  3]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.29-06.20.49:266][  3]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.29-06.20.49:266][  3]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.08.29-06.20.49:266][  3]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.29-06.20.49:267][  3]AssetCheck: /Game/Materials/M_para Validating asset
+[2026.08.29-06.20.49:267][  3]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.29-06.20.49:267][  3]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.29-06.20.49:267][  3]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.29-06.20.49:267][  3]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.08.29-06.20.49:267][  3]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.29-06.20.49:267][  3]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.29-06.20.49:267][  3]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.29-06.20.49:267][  3]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.29-06.20.49:267][  3]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.29-06.20.49:267][  3]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.29-06.21.04:513][850]LogEditorTransaction: Undo Material Editor: Delete
+[2026.08.29-06.21.04:651][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.08.29-06.21.04:870][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.08.29-06.21.29:656][ 85]LogMaterialEditor: Applying material M_para
+[2026.08.29-06.21.29:783][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.08.29-06.21.30:548][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.08.29-06.21.50:705][195]LogMaterialEditor: Applying material M_para
+[2026.08.29-06.21.50:828][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.08.29-06.21.51:550][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.08.29-06.22.20:167][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.29-06.22.20:226][778]LogFileHelpers: Saving Package: /Game/Materials/M_para_Inst
+[2026.08.29-06.22.20:226][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_para_Inst] ([1] browsable assets)...
+[2026.08.29-06.22.20:261][778]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials/M_para_Inst.M_para_Inst]
+[2026.08.29-06.22.20:261][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_para_Inst]
+[2026.08.29-06.22.20:261][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_para_Inst" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para_Inst.uasset" SILENT=true
+[2026.08.29-06.22.20:284][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.08.29-06.22.20:314][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.08.29-06.22.20:318][778]LogSavePackage: Moving output files for package: /Game/Materials/M_para_Inst
+[2026.08.29-06.22.20:319][778]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/M_para_Inst9E154ECF42C7F8401780038971CC0B2B.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para_Inst.uasset'
+[2026.08.29-06.22.20:331][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 164.026 ms (total: 14.2 sec)
+[2026.08.29-06.22.20:395][778]LogContentValidation: Enabled validators:
+[2026.08.29-06.22.20:395][778]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.29-06.22.20:395][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.29-06.22.20:395][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.29-06.22.20:395][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.29-06.22.20:395][778]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.29-06.22.20:395][778]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.29-06.22.20:395][778]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.29-06.22.20:395][778]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.29-06.22.20:395][778]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.29-06.22.20:395][778]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.08.29-06.22.20:395][778]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.29-06.22.20:395][778]AssetCheck: /Game/Materials/M_para_Inst Validating asset
+[2026.08.29-06.22.20:395][778]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.29-06.22.20:395][778]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.29-06.22.20:395][778]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.29-06.22.20:395][778]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.08.29-06.22.20:395][778]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.29-06.22.20:395][778]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.29-06.22.20:395][778]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.29-06.22.20:395][778]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.29-06.22.20:395][778]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.29-06.22.20:395][778]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.29-06.22.21:909][859]LogMaterialEditor: Saving and Compiling material M_para
+[2026.08.29-06.22.21:912][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.29-06.22.21:976][859]LogFileHelpers: Saving Package: /Game/Materials/M_para
+[2026.08.29-06.22.21:977][859]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_para] ([1] browsable assets)...
+[2026.08.29-06.22.22:009][859]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_para.M_para]
+[2026.08.29-06.22.22:009][859]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_para]
+[2026.08.29-06.22.22:009][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_para" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para.uasset" SILENT=true
+[2026.08.29-06.22.22:020][859]LogSavePackage: Moving output files for package: /Game/Materials/M_para
+[2026.08.29-06.22.22:024][859]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/M_paraB11112C141018069AE4BD7AFC406E6FD.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para.uasset'
+[2026.08.29-06.22.22:037][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.643 ms (total: 14.3 sec)
+[2026.08.29-06.22.22:092][859]LogContentValidation: Enabled validators:
+[2026.08.29-06.22.22:092][859]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.29-06.22.22:092][859]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.29-06.22.22:092][859]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.29-06.22.22:092][859]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.29-06.22.22:092][859]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.29-06.22.22:092][859]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.29-06.22.22:092][859]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.29-06.22.22:092][859]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.29-06.22.22:092][859]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.29-06.22.22:092][859]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.08.29-06.22.22:093][859]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.29-06.22.22:093][859]AssetCheck: /Game/Materials/M_para Validating asset
+[2026.08.29-06.22.22:093][859]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.29-06.22.22:093][859]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.29-06.22.22:093][859]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.29-06.22.22:093][859]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.08.29-06.22.22:093][859]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.29-06.22.22:093][859]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.29-06.22.22:093][859]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.29-06.22.22:093][859]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.29-06.22.22:093][859]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.29-06.22.22:093][859]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.29-06.22.24:512][ 18]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4822.045898
+[2026.08.29-06.22.24:799][ 33]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.29-06.22.24:799][ 33]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4822.312988, Update Interval: 337.383942
+[2026.08.29-06.22.41:282][612]LogMaterialEditor: Saving and Compiling material M_para
+[2026.08.29-06.22.41:413][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.08.29-06.22.42:176][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.08.29-06.22.42:190][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.29-06.22.42:244][612]LogFileHelpers: Saving Package: /Game/Materials/M_para
+[2026.08.29-06.22.42:244][612]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_para] ([1] browsable assets)...
+[2026.08.29-06.22.42:278][612]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_para.M_para]
+[2026.08.29-06.22.42:278][612]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_para]
+[2026.08.29-06.22.42:278][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_para" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para.uasset" SILENT=true
+[2026.08.29-06.22.42:283][612]LogSavePackage: Moving output files for package: /Game/Materials/M_para
+[2026.08.29-06.22.42:284][612]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/M_para2DB7A0B342A950B381960DA67D8C30FB.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para.uasset'
+[2026.08.29-06.22.42:296][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.373 ms (total: 14.4 sec)
+[2026.08.29-06.22.42:360][612]LogContentValidation: Enabled validators:
+[2026.08.29-06.22.42:360][612]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.29-06.22.42:360][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.29-06.22.42:360][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.29-06.22.42:360][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.29-06.22.42:360][612]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.29-06.22.42:360][612]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.29-06.22.42:360][612]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.29-06.22.42:360][612]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.29-06.22.42:360][612]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.29-06.22.42:360][612]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.08.29-06.22.42:360][612]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.29-06.22.42:360][612]AssetCheck: /Game/Materials/M_para Validating asset
+[2026.08.29-06.22.42:360][612]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.29-06.22.42:360][612]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.29-06.22.42:360][612]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.29-06.22.42:360][612]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.08.29-06.22.42:360][612]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.29-06.22.42:360][612]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.29-06.22.42:360][612]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.29-06.22.42:360][612]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.29-06.22.42:360][612]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.29-06.22.42:360][612]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.29-06.22.54:720][256]LogMaterialEditor: Saving and Compiling material M_para
+[2026.08.29-06.22.54:851][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.08.29-06.22.55:723][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.08.29-06.22.55:740][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.29-06.22.55:810][256]LogFileHelpers: Saving Package: /Game/Materials/M_para
+[2026.08.29-06.22.55:810][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_para] ([1] browsable assets)...
+[2026.08.29-06.22.55:844][256]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_para.M_para]
+[2026.08.29-06.22.55:844][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_para]
+[2026.08.29-06.22.55:844][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_para" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para.uasset" SILENT=true
+[2026.08.29-06.22.55:849][256]LogSavePackage: Moving output files for package: /Game/Materials/M_para
+[2026.08.29-06.22.55:849][256]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/M_para20ECDDEC403C00840FE3CBAB917A5D0D.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para.uasset'
+[2026.08.29-06.22.55:861][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.280 ms (total: 14.5 sec)
+[2026.08.29-06.22.55:936][256]LogContentValidation: Enabled validators:
+[2026.08.29-06.22.55:936][256]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.29-06.22.55:936][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.29-06.22.55:936][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.29-06.22.55:936][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.29-06.22.55:936][256]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.29-06.22.55:936][256]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.29-06.22.55:936][256]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.29-06.22.55:936][256]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.29-06.22.55:936][256]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.29-06.22.55:936][256]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.08.29-06.22.55:936][256]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.29-06.22.55:936][256]AssetCheck: /Game/Materials/M_para Validating asset
+[2026.08.29-06.22.55:936][256]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.29-06.22.55:936][256]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.29-06.22.55:936][256]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.29-06.22.55:936][256]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.08.29-06.22.55:936][256]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.29-06.22.55:936][256]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.29-06.22.55:936][256]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.29-06.22.55:936][256]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.29-06.22.55:936][256]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.29-06.22.55:936][256]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.29-06.23.13:525][191]LogMaterialEditor: Applying material M_para
+[2026.08.29-06.23.13:655][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.08.29-06.23.14:732][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: ================================================
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Total job queries 2,869, among them cache hits 275 (9.59%), DDC hits 330 (11.50%), Duplicates 678 (23.63%)
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Tracking 1,712 distinct input hashes that result in 1,106 distinct outputs (64.60%)
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: RAM used: 12.00 MiB of 9.50 GiB budget. Usage: 0.12%
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Shaders Compiled: 1,765
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Jobs assigned 1,765, completed 1,765 (100%)
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Average time worker was idle: 16.13 s
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Time job spent in pending queue: average 15.50 s, longest 46.54 s
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Job execution time: average 0.45 s, max 6.38 s
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Job life time (pending + execution): average 15.95 s, max 46.81
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Shader code size: total 20.666 MiB, numShaders 1,789, average 11.829 KiB, min 1.199 KiB, max 34.535 KiB
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 124.67 s
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Jobs were issued in 1,765 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Average processing rate: 14.16 jobs/sec
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Total thread time: 580.083 s
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Total thread preprocess time: 42.034 s
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Percentage time preprocessing: 7.25%
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Effective parallelization: 4.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.387755
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled  441 times, average 0.73 sec, max 1.72 sec, min 0.00 sec)
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 0.58 sec, max 0.63 sec, min 0.53 sec)
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   99 times, average 0.52 sec, max 1.00 sec, min 0.33 sec)
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 55.42% of total time (compiled  441 times, average 0.73 sec, max 1.72 sec, min 0.00 sec)
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.86% of total time (compiled   99 times, average 0.52 sec, max 1.00 sec, min 0.33 sec)
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.55% of total time (compiled  146 times, average 0.18 sec, max 0.43 sec, min 0.10 sec)
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display:                                               FHWRasterizeMS - 4.02% of total time (compiled  120 times, average 0.19 sec, max 0.25 sec, min 0.11 sec)
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.40% of total time (compiled  146 times, average 0.14 sec, max 0.23 sec, min 0.07 sec)
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: === Material stats ===
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Materials Translated:    410
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Material Total Translate Time: 0.23 s
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Material Translation Only: 0.12 s (52%)
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: Material Cache Hits: 12 (3%)
+[2026.08.29-06.23.19:143][418]LogShaderCompilers: Display: ================================================
+[2026.08.29-06.23.21:893][550]LogMaterialEditor: Applying material M_para
+[2026.08.29-06.23.22:019][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.08.29-06.23.22:882][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.08.29-06.23.55:064][541]LogMaterialEditor: Saving and Compiling material M_para
+[2026.08.29-06.23.55:196][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.08.29-06.23.56:240][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.08.29-06.23.56:255][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.29-06.23.56:304][541]LogFileHelpers: Saving Package: /Game/Materials/M_para
+[2026.08.29-06.23.56:305][541]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_para] ([1] browsable assets)...
+[2026.08.29-06.23.56:337][541]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_para.M_para]
+[2026.08.29-06.23.56:337][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_para]
+[2026.08.29-06.23.56:337][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_para" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para.uasset" SILENT=true
+[2026.08.29-06.23.56:342][541]LogSavePackage: Moving output files for package: /Game/Materials/M_para
+[2026.08.29-06.23.56:342][541]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/M_para2B9053C748C35A5D5985388075F56D21.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para.uasset'
+[2026.08.29-06.23.56:358][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.727 ms (total: 14.6 sec)
+[2026.08.29-06.23.56:423][541]LogContentValidation: Enabled validators:
+[2026.08.29-06.23.56:423][541]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.29-06.23.56:423][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.29-06.23.56:423][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.29-06.23.56:423][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.29-06.23.56:423][541]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.29-06.23.56:423][541]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.29-06.23.56:423][541]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.29-06.23.56:423][541]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.29-06.23.56:423][541]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.29-06.23.56:423][541]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.08.29-06.23.56:423][541]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.29-06.23.56:423][541]AssetCheck: /Game/Materials/M_para Validating asset
+[2026.08.29-06.23.56:423][541]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.29-06.23.56:423][541]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.29-06.23.56:423][541]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.29-06.23.56:423][541]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.08.29-06.23.56:423][541]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.29-06.23.56:423][541]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.29-06.23.56:423][541]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.29-06.23.56:423][541]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.29-06.23.56:423][541]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.29-06.23.56:423][541]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.29-06.24.03:971][949]Cmd: TRANSACTION UNDO
+[2026.08.29-06.24.03:971][949]LogEditorTransaction: Undo Transform
+[2026.08.29-06.25.29:371][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.08.29-06.25.29:384][815]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/MainLevel] ([1] browsable assets)...
+[2026.08.29-06.25.29:384][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/MainLevel]
+[2026.08.29-06.25.29:384][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Saved/Autosaves/Game/Maps/MainLevel_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.08.29-06.25.29:387][815]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/MainLevel_Auto1
+[2026.08.29-06.25.29:388][815]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/MainLevel_Auto1EBC12C3040824866FDB6979778C64AEE.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Saved/Autosaves/Game/Maps/MainLevel_Auto1.umap'
+[2026.08.29-06.25.29:390][815]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/LA] ([1] browsable assets)...
+[2026.08.29-06.25.29:390][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/LA]
+[2026.08.29-06.25.29:391][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LA" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Saved/Autosaves/Game/Maps/LA_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.08.29-06.25.29:392][815]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/LA_Auto1
+[2026.08.29-06.25.29:394][815]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/LA_Auto11A9A80224902334252F9DD80D9FA1D3E.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Saved/Autosaves/Game/Maps/LA_Auto1.umap'
+[2026.08.29-06.25.29:396][815]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Light] ([1] browsable assets)...
+[2026.08.29-06.25.29:396][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Light]
+[2026.08.29-06.25.29:396][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Light" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Saved/Autosaves/Game/Maps/Light_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.08.29-06.25.29:398][815]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Light_Auto1
+[2026.08.29-06.25.29:399][815]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/Light_Auto188C730EC48E291D08F3716B225978701.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Saved/Autosaves/Game/Maps/Light_Auto1.umap'
+[2026.08.29-06.25.29:400][815]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.052
+[2026.08.29-06.25.29:400][815]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
+[2026.08.29-06.26.19:160][363]LogShaderCompilers: Display: ================================================
+[2026.08.29-06.26.19:160][363]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.08.29-06.26.19:160][363]LogShaderCompilers: Display: Total job queries 2,964, among them cache hits 305 (10.29%), DDC hits 330 (11.13%), Duplicates 690 (23.28%)
+[2026.08.29-06.26.19:160][363]LogShaderCompilers: Display: Tracking 1,735 distinct input hashes that result in 1,116 distinct outputs (64.32%)
+[2026.08.29-06.26.19:160][363]LogShaderCompilers: Display: RAM used: 12.10 MiB of 9.50 GiB budget. Usage: 0.12%
+[2026.08.29-06.26.19:160][363]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.08.29-06.26.19:160][363]LogShaderCompilers: Display: Shaders Compiled: 1,842
+[2026.08.29-06.26.19:160][363]LogShaderCompilers: Display: Jobs assigned 1,842, completed 1,842 (100%)
+[2026.08.29-06.26.19:160][363]LogShaderCompilers: Display: Average time worker was idle: 16.32 s
+[2026.08.29-06.26.19:160][363]LogShaderCompilers: Display: Time job spent in pending queue: average 14.85 s, longest 46.54 s
+[2026.08.29-06.26.19:160][363]LogShaderCompilers: Display: Job execution time: average 0.44 s, max 6.38 s
+[2026.08.29-06.26.19:160][363]LogShaderCompilers: Display: Job life time (pending + execution): average 15.30 s, max 46.81
+[2026.08.29-06.26.19:160][363]LogShaderCompilers: Display: Shader code size: total 21.338 MiB, numShaders 1,866, average 11.709 KiB, min 1.199 KiB, max 34.535 KiB
+[2026.08.29-06.26.19:160][363]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 134.65 s
+[2026.08.29-06.26.19:160][363]LogShaderCompilers: Display: Jobs were issued in 1,842 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.08.29-06.26.19:160][363]LogShaderCompilers: Display: Average processing rate: 13.68 jobs/sec
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display: Total thread time: 597.131 s
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display: Total thread preprocess time: 43.077 s
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display: Percentage time preprocessing: 7.21%
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display: Effective parallelization: 4.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.369546
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled  441 times, average 0.73 sec, max 1.72 sec, min 0.00 sec)
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 0.58 sec, max 0.63 sec, min 0.53 sec)
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled  111 times, average 0.52 sec, max 1.00 sec, min 0.33 sec)
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 53.84% of total time (compiled  441 times, average 0.73 sec, max 1.72 sec, min 0.00 sec)
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.63% of total time (compiled  111 times, average 0.52 sec, max 1.00 sec, min 0.33 sec)
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.00% of total time (compiled  165 times, average 0.18 sec, max 0.43 sec, min 0.10 sec)
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display:                                               FHWRasterizeMS - 3.91% of total time (compiled  120 times, average 0.19 sec, max 0.25 sec, min 0.11 sec)
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.70% of total time (compiled  164 times, average 0.13 sec, max 0.23 sec, min 0.07 sec)
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display: === Material stats ===
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display: Materials Translated:    441
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display: Material Total Translate Time: 0.24 s
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display: Material Translation Only: 0.13 s (53%)
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display: Material Cache Hits: 12 (3%)
+[2026.08.29-06.26.19:161][363]LogShaderCompilers: Display: ================================================
+[2026.08.29-06.26.41:111][588]LogMaterialEditor: Applying material M_para
+[2026.08.29-06.26.41:245][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.08.29-06.26.42:011][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.08.29-06.26.42:499][609]LogMaterialEditor: Saving and Compiling material M_para
+[2026.08.29-06.26.42:501][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.29-06.26.42:560][609]LogFileHelpers: Saving Package: /Game/Materials/M_para
+[2026.08.29-06.26.42:560][609]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_para] ([1] browsable assets)...
+[2026.08.29-06.26.42:593][609]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_para.M_para]
+[2026.08.29-06.26.42:593][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_para]
+[2026.08.29-06.26.42:593][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_para" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para.uasset" SILENT=true
+[2026.08.29-06.26.42:598][609]LogSavePackage: Moving output files for package: /Game/Materials/M_para
+[2026.08.29-06.26.42:599][609]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/M_para2C39B3714F0B6834361DC48DB749BAC3.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para.uasset'
+[2026.08.29-06.26.42:612][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.940 ms (total: 14.7 sec)
+[2026.08.29-06.26.42:678][609]LogContentValidation: Enabled validators:
+[2026.08.29-06.26.42:678][609]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.29-06.26.42:678][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.29-06.26.42:678][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.29-06.26.42:678][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.29-06.26.42:678][609]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.29-06.26.42:678][609]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.29-06.26.42:678][609]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.29-06.26.42:678][609]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.29-06.26.42:678][609]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.29-06.26.42:678][609]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.08.29-06.26.42:678][609]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.29-06.26.42:678][609]AssetCheck: /Game/Materials/M_para Validating asset
+[2026.08.29-06.26.42:678][609]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.29-06.26.42:678][609]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.29-06.26.42:678][609]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.29-06.26.42:678][609]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.08.29-06.26.42:678][609]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.29-06.26.42:678][609]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.29-06.26.42:678][609]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.29-06.26.42:678][609]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.29-06.26.42:678][609]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.29-06.26.42:678][609]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.29-06.27.28:744][171]LogMaterialEditor: Saving and Compiling material M_para
+[2026.08.29-06.27.28:865][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.08.29-06.27.29:939][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.08.29-06.27.29:952][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.29-06.27.30:018][171]LogFileHelpers: Saving Package: /Game/Materials/M_para
+[2026.08.29-06.27.30:018][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_para] ([1] browsable assets)...
+[2026.08.29-06.27.30:050][171]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_para.M_para]
+[2026.08.29-06.27.30:050][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_para]
+[2026.08.29-06.27.30:050][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_para" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para.uasset" SILENT=true
+[2026.08.29-06.27.30:055][171]LogSavePackage: Moving output files for package: /Game/Materials/M_para
+[2026.08.29-06.27.30:056][171]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/M_paraDEDC2DA147BEA1AE3552AF9DBD6C9918.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para.uasset'
+[2026.08.29-06.27.30:071][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.336 ms (total: 14.8 sec)
+[2026.08.29-06.27.30:137][171]LogContentValidation: Enabled validators:
+[2026.08.29-06.27.30:137][171]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.29-06.27.30:137][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.29-06.27.30:137][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.29-06.27.30:137][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.29-06.27.30:137][171]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.29-06.27.30:137][171]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.29-06.27.30:137][171]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.29-06.27.30:137][171]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.29-06.27.30:137][171]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.29-06.27.30:137][171]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.08.29-06.27.30:137][171]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.29-06.27.30:137][171]AssetCheck: /Game/Materials/M_para Validating asset
+[2026.08.29-06.27.30:137][171]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.29-06.27.30:137][171]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.29-06.27.30:137][171]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.29-06.27.30:137][171]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.08.29-06.27.30:137][171]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.29-06.27.30:137][171]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.29-06.27.30:137][171]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.29-06.27.30:137][171]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.29-06.27.30:137][171]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.29-06.27.30:137][171]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.29-06.27.42:416][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.29-06.27.42:478][802]LogFileHelpers: Saving Package: /Game/Materials/M_para_Inst
+[2026.08.29-06.27.42:478][802]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/M_para_Inst] ([1] browsable assets)...
+[2026.08.29-06.27.42:478][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_para_Inst]
+[2026.08.29-06.27.42:478][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_para_Inst" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para_Inst.uasset" SILENT=true
+[2026.08.29-06.27.42:481][802]LogSavePackage: Moving output files for package: /Game/Materials/M_para_Inst
+[2026.08.29-06.27.42:482][802]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/M_para_Inst231A6A414FCEFAEAC5E952BE3669EE03.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para_Inst.uasset'
+[2026.08.29-06.27.42:493][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.753 ms (total: 14.9 sec)
+[2026.08.29-06.27.42:561][802]LogContentValidation: Enabled validators:
+[2026.08.29-06.27.42:562][802]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.29-06.27.42:562][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.29-06.27.42:562][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.29-06.27.42:562][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.29-06.27.42:562][802]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.29-06.27.42:562][802]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.29-06.27.42:562][802]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.29-06.27.42:562][802]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.29-06.27.42:562][802]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.29-06.27.42:562][802]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.08.29-06.27.42:562][802]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.29-06.27.42:562][802]AssetCheck: /Game/Materials/M_para_Inst Validating asset
+[2026.08.29-06.27.42:562][802]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.29-06.27.42:562][802]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.29-06.27.42:562][802]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.29-06.27.42:562][802]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.08.29-06.27.42:562][802]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.29-06.27.42:562][802]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.29-06.27.42:562][802]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.29-06.27.42:562][802]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.29-06.27.42:562][802]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.29-06.27.42:562][802]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.29-06.27.43:789][876]LogSlate: Window 'M_para_Inst' being destroyed
+[2026.08.29-06.27.43:802][876]LogSlate: Window 'M_para_Inst' being destroyed
+[2026.08.29-06.27.43:825][876]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.08.29-06.27.43:825][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.29-06.27.43:865][876]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.08.29-06.27.43:865][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.29-06.27.43:906][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.08.29-06.27.54:998][492]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/M_para_Inst.M_para_Inst
+[2026.08.29-06.28.14:076][547]LogSlate: Window 'M_para_Inst' being destroyed
+[2026.08.29-06.28.14:088][547]LogSlate: Window 'M_para_Inst' being destroyed
+[2026.08.29-06.28.14:132][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.08.29-06.28.14:223][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.08.29-06.28.14:259][547]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.08.29-06.28.14:259][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.29-06.28.14:301][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.08.29-06.28.15:331][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.29-06.28.15:392][629]LogFileHelpers: Saving Package: /Game/Materials/M_para_Inst
+[2026.08.29-06.28.15:392][629]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_para_Inst] ([1] browsable assets)...
+[2026.08.29-06.28.15:399][629]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials/M_para_Inst.M_para_Inst]
+[2026.08.29-06.28.15:399][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_para_Inst]
+[2026.08.29-06.28.15:399][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_para_Inst" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para_Inst.uasset" SILENT=true
+[2026.08.29-06.28.15:402][629]LogSavePackage: Moving output files for package: /Game/Materials/M_para_Inst
+[2026.08.29-06.28.15:402][629]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/M_para_Inst9F5C93E844E3AF67E7A4A08CEA690755.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para_Inst.uasset'
+[2026.08.29-06.28.15:412][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.541 ms (total: 15.0 sec)
+[2026.08.29-06.28.15:474][629]LogContentValidation: Enabled validators:
+[2026.08.29-06.28.15:474][629]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.29-06.28.15:474][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.29-06.28.15:474][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.29-06.28.15:474][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.29-06.28.15:474][629]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.29-06.28.15:474][629]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.29-06.28.15:474][629]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.29-06.28.15:474][629]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.29-06.28.15:474][629]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.29-06.28.15:474][629]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.08.29-06.28.15:474][629]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.29-06.28.15:474][629]AssetCheck: /Game/Materials/M_para_Inst Validating asset
+[2026.08.29-06.28.15:474][629]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.29-06.28.15:474][629]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.29-06.28.15:474][629]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.29-06.28.15:474][629]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.08.29-06.28.15:474][629]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.29-06.28.15:474][629]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.29-06.28.15:474][629]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.29-06.28.15:474][629]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.29-06.28.15:474][629]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.29-06.28.15:474][629]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.29-06.28.20:088][760]LogContentBrowser: Deferred new asset file creation: M_para_Inst1
+[2026.08.29-06.28.20:100][760]LogContentBrowser: Creating deferred item: M_para_Inst1
+[2026.08.29-06.28.20:129][761]LogContentBrowser: Renaming the item being created (Deferred Item: M_para_Inst1).
+[2026.08.29-06.28.20:497][795]LogContentBrowser: Attempting asset rename: M_para_Inst1 -> M_para_Inst1
+[2026.08.29-06.28.20:502][795]LogContentBrowser: End creating deferred item M_para_Inst1
+[2026.08.29-06.28.23:509][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.29-06.28.23:566][  1]LogFileHelpers: Saving Package: /Game/Materials/M_para_Inst1
+[2026.08.29-06.28.23:566][  1]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_para_Inst1] ([1] browsable assets)...
+[2026.08.29-06.28.23:599][  1]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials/M_para_Inst1.M_para_Inst1]
+[2026.08.29-06.28.23:599][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_para_Inst1]
+[2026.08.29-06.28.23:599][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_para_Inst1" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para_Inst1.uasset" SILENT=true
+[2026.08.29-06.28.23:602][  1]LogSavePackage: Moving output files for package: /Game/Materials/M_para_Inst1
+[2026.08.29-06.28.23:602][  1]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/M_para_Inst1ACFFABAB44527D265D70A39E3FCB694C.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para_Inst1.uasset'
+[2026.08.29-06.28.23:613][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.232 ms (total: 15.1 sec)
+[2026.08.29-06.28.23:680][  1]LogContentValidation: Enabled validators:
+[2026.08.29-06.28.23:680][  1]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.29-06.28.23:680][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.29-06.28.23:680][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.29-06.28.23:680][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.29-06.28.23:680][  1]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.29-06.28.23:680][  1]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.29-06.28.23:680][  1]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.29-06.28.23:680][  1]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.29-06.28.23:680][  1]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.29-06.28.23:680][  1]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.08.29-06.28.23:680][  1]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.29-06.28.23:680][  1]AssetCheck: /Game/Materials/M_para_Inst1 Validating asset
+[2026.08.29-06.28.23:680][  1]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.29-06.28.23:680][  1]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.29-06.28.23:680][  1]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.29-06.28.23:680][  1]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.08.29-06.28.23:680][  1]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.29-06.28.23:680][  1]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.29-06.28.23:680][  1]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.29-06.28.23:680][  1]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.29-06.28.23:680][  1]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.29-06.28.23:680][  1]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.29-06.28.23:705][  1]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UE_LocalProject/GitForUE5/AProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.08.29-06.28.55:727][717]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5213.265625
+[2026.08.29-06.28.56:731][720]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.29-06.28.56:731][720]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5213.933105, Update Interval: 332.406982
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: ================================================
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: Total job queries 3,051, among them cache hits 345 (11.31%), DDC hits 330 (10.82%), Duplicates 701 (22.98%)
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: Tracking 1,746 distinct input hashes that result in 1,126 distinct outputs (64.49%)
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: RAM used: 12.20 MiB of 9.50 GiB budget. Usage: 0.13%
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: Shaders Compiled: 1,914
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: Jobs assigned 1,914, completed 1,914 (100%)
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: Average time worker was idle: 16.23 s
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: Time job spent in pending queue: average 14.30 s, longest 46.54 s
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: Job execution time: average 0.44 s, max 6.38 s
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: Job life time (pending + execution): average 14.74 s, max 46.81
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: Shader code size: total 21.979 MiB, numShaders 1,938, average 11.612 KiB, min 1.199 KiB, max 34.535 KiB
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 142.31 s
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: Jobs were issued in 1,914 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: Average processing rate: 13.45 jobs/sec
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: Total thread time: 612.165 s
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: Total thread preprocess time: 44.055 s
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: Percentage time preprocessing: 7.20%
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: Effective parallelization: 4.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.358476
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2026.08.29-06.29.19:295][809]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled  441 times, average 0.73 sec, max 1.72 sec, min 0.00 sec)
+[2026.08.29-06.29.19:296][809]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2026.08.29-06.29.19:296][809]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 0.58 sec, max 0.63 sec, min 0.53 sec)
+[2026.08.29-06.29.19:296][809]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled  122 times, average 0.52 sec, max 1.00 sec, min 0.33 sec)
+[2026.08.29-06.29.19:296][809]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.08.29-06.29.19:296][809]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 52.51% of total time (compiled  441 times, average 0.73 sec, max 1.72 sec, min 0.00 sec)
+[2026.08.29-06.29.19:296][809]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.27% of total time (compiled  122 times, average 0.52 sec, max 1.00 sec, min 0.33 sec)
+[2026.08.29-06.29.19:296][809]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.34% of total time (compiled  182 times, average 0.18 sec, max 0.43 sec, min 0.10 sec)
+[2026.08.29-06.29.19:296][809]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.94% of total time (compiled  180 times, average 0.13 sec, max 0.23 sec, min 0.07 sec)
+[2026.08.29-06.29.19:296][809]LogShaderCompilers: Display:                                               FHWRasterizeMS - 3.81% of total time (compiled  120 times, average 0.19 sec, max 0.25 sec, min 0.11 sec)
+[2026.08.29-06.29.19:296][809]LogShaderCompilers: Display: === Material stats ===
+[2026.08.29-06.29.19:296][809]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.08.29-06.29.19:296][809]LogShaderCompilers: Display: Materials Translated:    471
+[2026.08.29-06.29.19:296][809]LogShaderCompilers: Display: Material Total Translate Time: 0.26 s
+[2026.08.29-06.29.19:296][809]LogShaderCompilers: Display: Material Translation Only: 0.14 s (54%)
+[2026.08.29-06.29.19:296][809]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.08.29-06.29.19:296][809]LogShaderCompilers: Display: Material Cache Hits: 12 (3%)
+[2026.08.29-06.29.19:296][809]LogShaderCompilers: Display: ================================================
+[2026.08.29-06.33.28:780][207]LogStreaming: Display: FlushAsyncLoading(757): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.29-06.33.28:794][207]LogInterchangeEngine: [Pending] Importing
+[2026.08.29-06.33.28:794][207]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/yimeng.chen03/Desktop/military_trenches_metal_corrugated_02_yd0kejgga_4k/T_Roof1_BC.jpg]
+[2026.08.29-06.33.28:795][207]LogInterchangeEngine: [Pending] Importing - Importing (2)
+[2026.08.29-06.33.28:795][207]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/yimeng.chen03/Desktop/military_trenches_metal_corrugated_02_yd0kejgga_4k/T_Roof1_Normal.jpg]
+[2026.08.29-06.33.28:796][207]LogInterchangeEngine: [Pending] Importing - Importing (3)
+[2026.08.29-06.33.28:796][207]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/yimeng.chen03/Desktop/military_trenches_metal_corrugated_02_yd0kejgga_4k/T_Roof1_HBC.png]
+[2026.08.29-06.33.28:796][207]LogInterchangeEngine: [Pending] Importing - Importing (4)
+[2026.08.29-06.33.28:796][207]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/yimeng.chen03/Desktop/military_trenches_metal_corrugated_02_yd0kejgga_4k/T_Roof1_RAS.png]
+[2026.08.29-06.33.29:496][209]LogStreaming: Display: FlushAsyncLoading(761): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.29-06.33.29:498][209]LogInterchangeImport: JPEG file [C:/Users/yimeng.chen03/Desktop/military_trenches_metal_corrugated_02_yd0kejgga_4k/T_Roof1_Normal.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.08.29-06.33.29:498][209]LogInterchangeImport: JPEG file [C:/Users/yimeng.chen03/Desktop/military_trenches_metal_corrugated_02_yd0kejgga_4k/T_Roof1_BC.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.08.29-06.33.29:867][211]LogTexture: Display: Building texture TwoD: /Game/Environment/Block/Textures/T_Roof1_BC.T_Roof1_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.08.29-06.33.29:918][211]LogInterchangePipeline: Display: Auto-detected normal map
+[2026.08.29-06.33.29:984][212]LogTexture: Display: Building texture TwoD: /Game/Environment/Block/Textures/T_Roof1_Normal.T_Roof1_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.08.29-06.33.30:013][212]LogInterchangePipeline: Display: Auto-detected normal map
+[2026.08.29-06.33.30:030][213]LogTexture: Display: Building texture TwoD: /Game/Environment/Block/Textures/T_Roof1_HBC.T_Roof1_HBC (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 472.499988 MB), EncodeSpeed: Fast
+[2026.08.29-06.33.30:052][213]LogTexture: Display: Building texture TwoD: /Game/Environment/Block/Textures/T_Roof1_RAS.T_Roof1_RAS (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 331.083323 MB), EncodeSpeed: Fast
+[2026.08.29-06.33.30:277][214]LogInterchangeEngine: Display: Interchange import completed [C:/Users/yimeng.chen...ated_02_yd0kejgga_4k/T_Roof1_BC.jpg]
+[2026.08.29-06.33.30:277][214]LogInterchangeEngine: [Pending] Importing - Importing (3)
+[2026.08.29-06.33.30:278][214]LogInterchangeEngine: Display: Interchange import completed [C:/Users/yimeng.chen...ated_02_yd0kejgga_4k/T_Roof1_HBC.png]
+[2026.08.29-06.33.30:278][214]LogInterchangeEngine: [Pending] Importing - Importing (2)
+[2026.08.29-06.33.30:382][215]LogInterchangeEngine: Display: Interchange import completed [C:/Users/yimeng.chen...ated_02_yd0kejgga_4k/T_Roof1_Normal.jpg]
+[2026.08.29-06.33.30:382][215]LogInterchangeEngine: [Pending] Importing - Importing (1)
+[2026.08.29-06.33.30:382][215]LogInterchangeEngine: Display: Interchange import completed [C:/Users/yimeng.chen...ated_02_yd0kejgga_4k/T_Roof1_RAS.png]
+[2026.08.29-06.33.30:402][215]LogInterchangeEngine: Display: Import Done in 1.60564 seconds.
+[2026.08.29-06.33.30:402][215]LogInterchangeEngine: [Pending] Importing - Operation Completed.
+[2026.08.29-06.33.30:402][215]LogInterchangeEngine: [Success] Import Done
+[2026.08.29-06.33.35:821][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.29-06.33.35:877][323]LogFileHelpers: Saving Package: /Game/Environment/Block/Textures/T_Roof1_BC
+[2026.08.29-06.33.35:877][323]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Block/Textures/T_Roof1_BC] ([1] browsable assets)...
+[2026.08.29-06.33.35:879][323]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Environment/Block/Textures/T_Roof1_BC.T_Roof1_BC]
+[2026.08.29-06.33.35:879][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Block/Textures/T_Roof1_BC]
+[2026.08.29-06.33.35:879][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Block/Textures/T_Roof1_BC" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Roof1_BC.uasset" SILENT=true
+[2026.08.29-06.33.35:883][323]LogSavePackage: Moving output files for package: /Game/Environment/Block/Textures/T_Roof1_BC
+[2026.08.29-06.33.35:883][323]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/T_Roof1_BC8E1E154E4E815EFF10FEB7A0D0A9F50E.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Roof1_BC.uasset'
+[2026.08.29-06.33.35:884][323]LogFileHelpers: Saving Package: /Game/Environment/Block/Textures/T_Roof1_HBC
+[2026.08.29-06.33.35:884][323]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Block/Textures/T_Roof1_HBC] ([1] browsable assets)...
+[2026.08.29-06.33.35:885][323]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Environment/Block/Textures/T_Roof1_HBC.T_Roof1_HBC]
+[2026.08.29-06.33.35:885][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Block/Textures/T_Roof1_HBC]
+[2026.08.29-06.33.35:885][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Block/Textures/T_Roof1_HBC" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Roof1_HBC.uasset" SILENT=true
+[2026.08.29-06.33.35:918][323]LogSavePackage: Moving output files for package: /Game/Environment/Block/Textures/T_Roof1_HBC
+[2026.08.29-06.33.35:918][323]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/T_Roof1_HBC3B691343460B8D8E11B35888F5C02E97.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Roof1_HBC.uasset'
+[2026.08.29-06.33.35:919][323]LogFileHelpers: Saving Package: /Game/Environment/Block/Textures/T_Roof1_Normal
+[2026.08.29-06.33.35:919][323]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Block/Textures/T_Roof1_Normal] ([1] browsable assets)...
+[2026.08.29-06.33.35:921][323]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Environment/Block/Textures/T_Roof1_Normal.T_Roof1_Normal]
+[2026.08.29-06.33.35:921][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Block/Textures/T_Roof1_Normal]
+[2026.08.29-06.33.35:921][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Block/Textures/T_Roof1_Normal" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Roof1_Normal.uasset" SILENT=true
+[2026.08.29-06.33.35:925][323]LogSavePackage: Moving output files for package: /Game/Environment/Block/Textures/T_Roof1_Normal
+[2026.08.29-06.33.35:925][323]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/T_Roof1_Normal0F7C791C4285DFC85BCE2AB44F3F7A49.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Roof1_Normal.uasset'
+[2026.08.29-06.33.35:926][323]LogFileHelpers: Saving Package: /Game/Environment/Block/Textures/T_Roof1_RAS
+[2026.08.29-06.33.35:926][323]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Block/Textures/T_Roof1_RAS] ([1] browsable assets)...
+[2026.08.29-06.33.35:927][323]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Environment/Block/Textures/T_Roof1_RAS.T_Roof1_RAS]
+[2026.08.29-06.33.35:927][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Block/Textures/T_Roof1_RAS]
+[2026.08.29-06.33.35:927][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Block/Textures/T_Roof1_RAS" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Roof1_RAS.uasset" SILENT=true
+[2026.08.29-06.33.35:962][323]LogSavePackage: Moving output files for package: /Game/Environment/Block/Textures/T_Roof1_RAS
+[2026.08.29-06.33.35:962][323]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/T_Roof1_RASFE118DB3473E4B8D03812586D3790659.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Roof1_RAS.uasset'
+[2026.08.29-06.33.35:977][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.662 ms (total: 15.3 sec)
+[2026.08.29-06.33.36:041][323]LogContentValidation: Enabled validators:
+[2026.08.29-06.33.36:041][323]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.29-06.33.36:041][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.29-06.33.36:041][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.29-06.33.36:041][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.29-06.33.36:041][323]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.29-06.33.36:041][323]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.29-06.33.36:041][323]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.29-06.33.36:041][323]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.29-06.33.36:041][323]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.29-06.33.36:041][323]LogContentValidation: Display: Starting to validate 4 assets (0 associated objects such as actors)
+[2026.08.29-06.33.36:041][323]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.29-06.33.36:042][323]AssetCheck: /Game/Environment/Block/Textures/T_Roof1_BC Validating asset
+[2026.08.29-06.33.36:042][323]AssetCheck: /Game/Environment/Block/Textures/T_Roof1_HBC Validating asset
+[2026.08.29-06.33.36:042][323]AssetCheck: /Game/Environment/Block/Textures/T_Roof1_Normal Validating asset
+[2026.08.29-06.33.36:042][323]AssetCheck: /Game/Environment/Block/Textures/T_Roof1_RAS Validating asset
+[2026.08.29-06.33.36:042][323]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.29-06.33.36:042][323]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.29-06.33.36:042][323]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.29-06.33.36:042][323]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 4
+[2026.08.29-06.33.36:042][323]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.29-06.33.36:042][323]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.29-06.33.36:042][323]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.29-06.33.36:042][323]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.29-06.33.36:042][323]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.29-06.33.36:042][323]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.29-06.33.36:073][323]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UE_LocalProject/GitForUE5/AProject/Saved/SourceControl/UncontrolledChangelists.json
