@@ -3071,3 +3071,209 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.08.29-05.24.36:112][988]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.08.29-05.24.36:112][988]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.08.29-05.24.36:112][988]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.29-05.24.45:569][124]LogStreaming: Display: FlushAsyncLoading(523): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.29-05.24.45:723][126]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_QuarterCylinderOuter.SM_QuarterCylinderOuter
+[2026.08.29-05.24.45:724][126]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_QuarterCylinderOuter.SM_QuarterCylinderOuter
+[2026.08.29-05.24.45:724][126]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_QuarterCylinderOuter.SM_QuarterCylinderOuter as actor: StaticMeshActor /Game/Maps/LA.LA:PersistentLevel.StaticMeshActor_2
+[2026.08.29-05.24.48:003][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.08.29-05.24.48:004][297]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.08.29-05.24.48:012][297]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_QuarterCylinderOuter.SM_QuarterCylinderOuter
+[2026.08.29-05.24.48:012][297]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_QuarterCylinderOuter.SM_QuarterCylinderOuter
+[2026.08.29-05.24.48:014][297]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_QuarterCylinderOuter.SM_QuarterCylinderOuter as actor: StaticMeshActor /Game/Maps/LA.LA:PersistentLevel.StaticMeshActor_3
+[2026.08.29-05.24.56:920][971]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/Common/MegaLights_16.svg'. File could not be found
+[2026.08.29-05.24.59:637][224]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1377.230713
+[2026.08.29-05.25.00:214][275]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.29-05.25.00:214][275]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1377.794556, Update Interval: 356.821198
+[2026.08.29-05.25.20:929][189]Cmd: DELETE
+[2026.08.29-05.25.20:929][189]Cmd: ACTOR DELETE
+[2026.08.29-05.25.20:931][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.29-05.25.20:954][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.08.29-05.25.20:959][189]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: ================================================
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Total job queries 344, among them cache hits 16 (4.65%), DDC hits 300 (87.21%), Duplicates 22 (6.40%)
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Tracking 306 distinct input hashes that result in 219 distinct outputs (71.57%)
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: RAM used: 3.07 MiB of 9.50 GiB budget. Usage: 0.03%
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Shaders Compiled: 6
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Average time worker was idle: 111.70 s
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Job execution time: average 1.97 s, max 6.38 s
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Job life time (pending + execution): average 2.02 s, max 6.42
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Shader code size: total 97.492 KiB, numShaders 6, average 16.248 KiB, min 7.406 KiB, max 27.629 KiB
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.38 s
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Average processing rate: 0.53 jobs/sec
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Total thread time: 3.903 s
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Total thread preprocess time: 5.681 s
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Percentage time preprocessing: 145.55%
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Effective parallelization: 0.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.028573
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.66 sec, max 0.95 sec, min 0.47 sec)
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 0.56 sec, max 0.59 sec, min 0.53 sec)
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 50.71% of total time (compiled    3 times, average 0.66 sec, max 0.95 sec, min 0.47 sec)
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display:                                                 FLumenCardCS - 28.60% of total time (compiled    2 times, average 0.56 sec, max 0.59 sec, min 0.53 sec)
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 20.69% of total time (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: === Material stats ===
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Materials Translated:    155
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Material Translation Only: 0.05 s (40%)
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: Material Cache Hits: 12 (8%)
+[2026.08.29-05.26.06:009][432]LogShaderCompilers: Display: ================================================
+[2026.08.29-05.26.45:790][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.29-05.26.45:854][399]LogFileHelpers: Saving Map: /Game/Maps/LA
+[2026.08.29-05.26.45:854][399]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/LA] ([1] browsable assets)...
+[2026.08.29-05.26.45:854][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/LA]
+[2026.08.29-05.26.45:854][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LA" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/LA.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.29-05.26.45:875][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.08.29-05.26.45:889][399]LogSavePackage: Moving output files for package: /Game/Maps/LA
+[2026.08.29-05.26.45:889][399]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/LA6F54F5094068B14BF43C3D95BE4DEC1B.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/LA.umap'
+[2026.08.29-05.26.45:896][399]LogFileHelpers: Saving Map: /Game/Maps/Light
+[2026.08.29-05.26.45:896][399]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Light] ([1] browsable assets)...
+[2026.08.29-05.26.45:896][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Light]
+[2026.08.29-05.26.45:896][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Light" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Light.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.29-05.26.45:916][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.08.29-05.26.45:927][399]LogSavePackage: Moving output files for package: /Game/Maps/Light
+[2026.08.29-05.26.45:928][399]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/Light381E0D88436064B427CB288C24E53181.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Light.umap'
+[2026.08.29-05.26.45:930][399]LogFileHelpers: Saving Map: /Game/Maps/MainLevel
+[2026.08.29-05.26.45:930][399]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/MainLevel] ([1] browsable assets)...
+[2026.08.29-05.26.45:930][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/MainLevel]
+[2026.08.29-05.26.45:930][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.29-05.26.45:964][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.08.29-05.26.45:973][399]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2026.08.29-05.26.45:973][399]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/MainLevel3B588C7048204A932251FCA7F31482CB.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainLevel.umap'
+[2026.08.29-05.26.45:994][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 204.279 ms (total: 1.74 sec)
+[2026.08.29-05.26.46:054][399]LogContentValidation: Enabled validators:
+[2026.08.29-05.26.46:054][399]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.29-05.26.46:054][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.29-05.26.46:054][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.29-05.26.46:054][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.29-05.26.46:054][399]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.29-05.26.46:054][399]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.29-05.26.46:054][399]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.29-05.26.46:054][399]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.29-05.26.46:054][399]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.29-05.26.46:054][399]LogContentValidation: Display: Starting to validate 3 assets (0 associated objects such as actors)
+[2026.08.29-05.26.46:054][399]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.29-05.26.46:054][399]AssetCheck: /Game/Maps/LA Validating asset
+[2026.08.29-05.26.46:054][399]AssetCheck: /Game/Maps/Light Validating asset
+[2026.08.29-05.26.46:054][399]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2026.08.29-05.26.46:054][399]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.29-05.26.46:054][399]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.29-05.26.46:054][399]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.29-05.26.46:054][399]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 3
+[2026.08.29-05.26.46:054][399]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.29-05.26.46:054][399]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.29-05.26.46:054][399]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.29-05.26.46:054][399]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.29-05.26.46:054][399]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.29-05.26.46:054][399]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.29-05.26.54:677][204]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.08.29-05.26.54:687][204]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.08.29-05.26.54:711][206]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.08.29-05.26.59:598][722]LogContentBrowser: Attempting asset rename: NewMaterial -> M_para
+[2026.08.29-05.26.59:600][722]LogContentBrowser: End creating deferred item NewMaterial
+[2026.08.29-05.27.00:536][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.29-05.27.00:599][813]LogFileHelpers: Saving Package: /Game/Materials/M_para
+[2026.08.29-05.27.00:599][813]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_para] ([1] browsable assets)...
+[2026.08.29-05.27.00:632][813]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_para.M_para]
+[2026.08.29-05.27.00:632][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_para]
+[2026.08.29-05.27.00:632][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_para" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para.uasset" SILENT=true
+[2026.08.29-05.27.00:637][813]LogSavePackage: Moving output files for package: /Game/Materials/M_para
+[2026.08.29-05.27.00:637][813]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/M_para20AA55D64AC871F21465719C89DCBDAF.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para.uasset'
+[2026.08.29-05.27.00:656][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.034 ms (total: 1.86 sec)
+[2026.08.29-05.27.00:715][813]LogContentValidation: Enabled validators:
+[2026.08.29-05.27.00:715][813]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.29-05.27.00:715][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.29-05.27.00:715][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.29-05.27.00:715][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.29-05.27.00:715][813]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.29-05.27.00:715][813]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.29-05.27.00:715][813]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.29-05.27.00:715][813]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.29-05.27.00:715][813]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.29-05.27.00:715][813]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.08.29-05.27.00:715][813]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.29-05.27.00:715][813]AssetCheck: /Game/Materials/M_para Validating asset
+[2026.08.29-05.27.00:715][813]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.29-05.27.00:715][813]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.29-05.27.00:715][813]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.29-05.27.00:715][813]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.08.29-05.27.00:715][813]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.29-05.27.00:715][813]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.29-05.27.00:715][813]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.29-05.27.00:715][813]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.29-05.27.00:715][813]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.29-05.27.00:715][813]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.29-05.27.00:739][813]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UE_LocalProject/GitForUE5/AProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.08.29-05.27.01:876][900]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_para.M_para
+[2026.08.29-05.27.01:891][900]LogStreaming: Display: FlushAsyncLoading(524): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.29-05.27.04:323][  7]LogSlate: Window 'M_para' being destroyed
+[2026.08.29-05.27.04:334][  7]LogSlate: Window 'M_para' being destroyed
+[2026.08.29-05.27.04:398][  7]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.08.29-05.27.04:398][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.29-05.27.04:454][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.08.29-05.27.40:101][258]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.08.29-05.27.40:115][258]LogContentBrowser: Creating deferred item: NewFolder
+[2026.08.29-05.27.40:128][259]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.08.29-05.27.46:981][977]LogContentBrowser: Attempting asset rename: NewFolder -> Environment
+[2026.08.29-05.27.46:982][977]LogContentBrowser: End creating deferred item NewFolder
+[2026.08.29-05.27.51:340][435]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.08.29-05.27.51:351][435]LogContentBrowser: Creating deferred item: NewFolder
+[2026.08.29-05.27.51:376][437]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.08.29-05.27.54:939][799]LogContentBrowser: Attempting asset rename: NewFolder -> Block
+[2026.08.29-05.27.54:941][799]LogContentBrowser: End creating deferred item NewFolder
+[2026.08.29-05.28.21:540][257]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.08.29-05.28.21:549][257]LogContentBrowser: Creating deferred item: NewFolder
+[2026.08.29-05.28.21:572][259]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.08.29-05.28.25:528][669]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2026.08.29-05.28.25:528][669]LogContentBrowser: End creating deferred item NewFolder
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: ================================================
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Total job queries 364, among them cache hits 23 (6.32%), DDC hits 311 (85.44%), Duplicates 22 (6.04%)
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Tracking 319 distinct input hashes that result in 228 distinct outputs (71.47%)
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: RAM used: 3.13 MiB of 9.50 GiB budget. Usage: 0.03%
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Shaders Compiled: 11
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Average time worker was idle: 196.79 s
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Job execution time: average 1.35 s, max 6.38 s
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Job life time (pending + execution): average 1.43 s, max 6.42
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Shader code size: total 135.016 KiB, numShaders 11, average 12.273 KiB, min 4.375 KiB, max 27.629 KiB
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.46 s
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Average processing rate: 0.88 jobs/sec
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Total thread time: 5.014 s
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Total thread preprocess time: 5.999 s
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Percentage time preprocessing: 119.64%
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Effective parallelization: 0.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.033538
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.62 sec, max 0.95 sec, min 0.47 sec)
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 0.56 sec, max 0.59 sec, min 0.53 sec)
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.18 sec, max 0.18 sec, min 0.18 sec)
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 49.79% of total time (compiled    4 times, average 0.62 sec, max 0.95 sec, min 0.47 sec)
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display:                                                 FLumenCardCS - 22.26% of total time (compiled    2 times, average 0.56 sec, max 0.59 sec, min 0.53 sec)
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 16.10% of total time (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.68% of total time (compiled    1 times, average 0.18 sec, max 0.18 sec, min 0.18 sec)
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 2.92% of total time (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: === Material stats ===
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Materials Translated:    164
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Material Translation Only: 0.05 s (40%)
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: Material Cache Hits: 12 (7%)
+[2026.08.29-05.29.06:625][164]LogShaderCompilers: Display: ================================================
