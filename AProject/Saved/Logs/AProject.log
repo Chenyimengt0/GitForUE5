@@ -4750,3 +4750,484 @@ FPackageName: Skipped package /Game/DemoTemplate/_Core/MI_Intro_Colorway has a v
 		Object: SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple
 		Property: /Script/Engine.SkeletalMesh:ThumbnailInfo
 [2026.08.29-05.44.21:213][260]Warning: Can't save '../../../../UE_LocalProject/GitForUE5/AProject/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple_Auto1.uasset': Illegal reference to private object: 'SceneThumbnailInfo /Game/third/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple:SceneThumbnailInfo_0' referenced by 'SKM_Quinn_Simple' (at '/Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple') in its 'ThumbnailInfo' property.
+[2026.08.29-05.44.44:161][127]LogStreaming: Display: FlushAsyncLoading(685): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.29-05.44.44:205][127]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.08.29-05.44.44:205][127]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.08.29-05.44.44:205][127]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.08.29-05.44.44:205][127]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.08.29-05.44.44:207][127]LogWorldPartition: Display: WorldPartition initialize took 1.654 ms (total: 258.820 ms)
+[2026.08.29-05.44.44:295][127]LogDatasmithContent: Do not use the UDatasmithStaticMeshCADImportData to store CAD data as the class is now deprecated.
+[2026.08.29-05.44.44:342][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.29-05.44.45:363][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.08.29-05.44.45:387][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.08.29-05.44.45:408][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.08.29-05.44.45:430][127]LogFileHelpers: Saving Map: /Game/third/ThirdPerson/Lvl_ThirdPerson
+[2026.08.29-05.44.45:433][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/third/ThirdPerson/Lvl_ThirdPerson] ([1] browsable assets)...
+[2026.08.29-05.44.45:433][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/third/ThirdPerson/Lvl_ThirdPerson]
+[2026.08.29-05.44.45:453][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.08.29-05.44.45:460][127]LogSavePackage: Moving output files for package: /Game/third/ThirdPerson/Lvl_ThirdPerson
+[2026.08.29-05.44.45:460][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/Lvl_ThirdPerson68FF721244EC0B42AFB6F8B35C8096F4.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/third/ThirdPerson/Lvl_ThirdPerson.umap'
+[2026.08.29-05.44.45:469][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.29-05.44.45:469][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/OZ/UGJZLCBMQW8BEDAMXADXMC
+[2026.08.29-05.44.45:470][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/OZ/UGJZLCBMQW8BEDAMXADXMC
+[2026.08.29-05.44.45:470][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/UGJZLCBMQW8BEDAMXADXMC8C7E3E6E49DB703D6FF1388F507038FB.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/OZ/UGJZLCBMQW8BEDAMXADXMC.uasset'
+[2026.08.29-05.44.45:473][127]LogFileHelpers: Saving Package: /Game/__ExternalObjects__/third/ThirdPerson/Lvl_ThirdPerson/E/BU/0JMM1V35W5Q2UYA1QPTFY6
+[2026.08.29-05.44.45:474][127]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/third/ThirdPerson/Lvl_ThirdPerson/E/BU/0JMM1V35W5Q2UYA1QPTFY6
+[2026.08.29-05.44.45:474][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/0JMM1V35W5Q2UYA1QPTFY6DB05695941981C500243A2B4E7D5F646.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalObjects__/third/ThirdPerson/Lvl_ThirdPerson/E/BU/0JMM1V35W5Q2UYA1QPTFY6.uasset'
+[2026.08.29-05.44.45:476][127]LogFileHelpers: Saving Package: /Game/__ExternalObjects__/third/ThirdPerson/Lvl_ThirdPerson/4/TD/N6HDQ32BEYOKY5ZLJ8K8UX
+[2026.08.29-05.44.45:477][127]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/third/ThirdPerson/Lvl_ThirdPerson/4/TD/N6HDQ32BEYOKY5ZLJ8K8UX
+[2026.08.29-05.44.45:477][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/N6HDQ32BEYOKY5ZLJ8K8UX65B79681488794C9AC4BFFAB595FD798.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalObjects__/third/ThirdPerson/Lvl_ThirdPerson/4/TD/N6HDQ32BEYOKY5ZLJ8K8UX.uasset'
+[2026.08.29-05.44.45:477][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/7/01/XT7RTHVMNHRAX1KYUD4SPT
+[2026.08.29-05.44.45:479][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/7/01/XT7RTHVMNHRAX1KYUD4SPT
+[2026.08.29-05.44.45:479][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/XT7RTHVMNHRAX1KYUD4SPT5A45F92F43AB702AD0B21BA7ADC5282C.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/7/01/XT7RTHVMNHRAX1KYUD4SPT.uasset'
+[2026.08.29-05.44.45:480][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/0O/YAM2MCN9RRUC6FZ622XAZJ
+[2026.08.29-05.44.45:483][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/0O/YAM2MCN9RRUC6FZ622XAZJ
+[2026.08.29-05.44.45:483][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/YAM2MCN9RRUC6FZ622XAZJABE8390648CFCDA44098A9B961E4AC93.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/0O/YAM2MCN9RRUC6FZ622XAZJ.uasset'
+[2026.08.29-05.44.45:484][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/H1/9CP7ZE7AFPC2JDEUH9CI1V
+[2026.08.29-05.44.45:485][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/H1/9CP7ZE7AFPC2JDEUH9CI1V
+[2026.08.29-05.44.45:485][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/9CP7ZE7AFPC2JDEUH9CI1VE0C2EB5E4A9E6AE5473630920A330FD1.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/H1/9CP7ZE7AFPC2JDEUH9CI1V.uasset'
+[2026.08.29-05.44.45:486][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/4/K8/O14DSP9LHM2EJGUYZBDRDS
+[2026.08.29-05.44.45:487][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/4/K8/O14DSP9LHM2EJGUYZBDRDS
+[2026.08.29-05.44.45:487][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/O14DSP9LHM2EJGUYZBDRDS60F0CD64497B4A7AB21D3BB9E1A59644.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/4/K8/O14DSP9LHM2EJGUYZBDRDS.uasset'
+[2026.08.29-05.44.45:489][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/2/L3/6Y2K0U63LRW34YX4LA6UNX
+[2026.08.29-05.44.45:490][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/2/L3/6Y2K0U63LRW34YX4LA6UNX
+[2026.08.29-05.44.45:490][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/6Y2K0U63LRW34YX4LA6UNXB0F39D2C4EE0B15880FBF59A74A6E0CE.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/2/L3/6Y2K0U63LRW34YX4LA6UNX.uasset'
+[2026.08.29-05.44.45:491][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/OG/98PX2IC3BDOHMRP44PE2JP
+[2026.08.29-05.44.45:493][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/OG/98PX2IC3BDOHMRP44PE2JP
+[2026.08.29-05.44.45:493][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/98PX2IC3BDOHMRP44PE2JP9D23FD36415AC28F5765D197B44EFF38.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/OG/98PX2IC3BDOHMRP44PE2JP.uasset'
+[2026.08.29-05.44.45:494][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/LG/XZEMGZU1558CAUG1WY0IBD
+[2026.08.29-05.44.45:495][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/LG/XZEMGZU1558CAUG1WY0IBD
+[2026.08.29-05.44.45:495][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/XZEMGZU1558CAUG1WY0IBDC4EE5A1A4DC8CD6A7F96E2AE385DA0F0.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/LG/XZEMGZU1558CAUG1WY0IBD.uasset'
+[2026.08.29-05.44.45:497][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/D/HB/GB9VUWQVQGPOJNPNHVV1MZ
+[2026.08.29-05.44.45:498][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/D/HB/GB9VUWQVQGPOJNPNHVV1MZ
+[2026.08.29-05.44.45:498][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/GB9VUWQVQGPOJNPNHVV1MZ80F597ED4A08086B80C501BE5CF562F1.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/D/HB/GB9VUWQVQGPOJNPNHVV1MZ.uasset'
+[2026.08.29-05.44.45:500][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/7/V3/I03CVTHEU3J7D1Y3FUYCVG
+[2026.08.29-05.44.45:501][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/7/V3/I03CVTHEU3J7D1Y3FUYCVG
+[2026.08.29-05.44.45:501][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/I03CVTHEU3J7D1Y3FUYCVG0644BED542BADED6380A1DB93AF46309.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/7/V3/I03CVTHEU3J7D1Y3FUYCVG.uasset'
+[2026.08.29-05.44.45:501][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/C/P7/Q8SX2GL9OC2G9QXE5GK6VN
+[2026.08.29-05.44.45:503][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/C/P7/Q8SX2GL9OC2G9QXE5GK6VN
+[2026.08.29-05.44.45:503][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/Q8SX2GL9OC2G9QXE5GK6VNF521655646462A1E829EF5A8B822E9AA.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/C/P7/Q8SX2GL9OC2G9QXE5GK6VN.uasset'
+[2026.08.29-05.44.45:505][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/E/0G/OL8IU1U5M9L6HMLBE1XKKO
+[2026.08.29-05.44.45:505][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/E/0G/OL8IU1U5M9L6HMLBE1XKKO
+[2026.08.29-05.44.45:505][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/OL8IU1U5M9L6HMLBE1XKKOE327406941B3BED430C9E9B6E250872D.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/E/0G/OL8IU1U5M9L6HMLBE1XKKO.uasset'
+[2026.08.29-05.44.45:508][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/C/73/S8KMOX6QO7BU9AV8R8NO84
+[2026.08.29-05.44.45:509][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/C/73/S8KMOX6QO7BU9AV8R8NO84
+[2026.08.29-05.44.45:509][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/S8KMOX6QO7BU9AV8R8NO8477F1B9684C10916BF8C149AC42EF7999.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/C/73/S8KMOX6QO7BU9AV8R8NO84.uasset'
+[2026.08.29-05.44.45:510][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/4/KV/MDXGFDGKNSCJXFUXQFND08
+[2026.08.29-05.44.45:511][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/4/KV/MDXGFDGKNSCJXFUXQFND08
+[2026.08.29-05.44.45:511][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/MDXGFDGKNSCJXFUXQFND08AD25BD32450AEA864D546AA43F2F65D3.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/4/KV/MDXGFDGKNSCJXFUXQFND08.uasset'
+[2026.08.29-05.44.45:513][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/7/D2/H4F76XWW4QZSV241NB501E
+[2026.08.29-05.44.45:514][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/7/D2/H4F76XWW4QZSV241NB501E
+[2026.08.29-05.44.45:514][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/H4F76XWW4QZSV241NB501E0BF785374DA7014D809BFFA7DE249FEA.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/7/D2/H4F76XWW4QZSV241NB501E.uasset'
+[2026.08.29-05.44.45:515][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/KQ/IK95SN6LHU62I0M6T9JP3L
+[2026.08.29-05.44.45:517][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/KQ/IK95SN6LHU62I0M6T9JP3L
+[2026.08.29-05.44.45:517][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/IK95SN6LHU62I0M6T9JP3LD929082F4E18D541DAC1559FC94C9A59.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/KQ/IK95SN6LHU62I0M6T9JP3L.uasset'
+[2026.08.29-05.44.45:518][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/2/SF/VVBUFQFU3GQW4K85WHB7KY
+[2026.08.29-05.44.45:519][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/2/SF/VVBUFQFU3GQW4K85WHB7KY
+[2026.08.29-05.44.45:519][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/VVBUFQFU3GQW4K85WHB7KYDC48E3C2494DDED560F75B8ACA3A275B.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/2/SF/VVBUFQFU3GQW4K85WHB7KY.uasset'
+[2026.08.29-05.44.45:520][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/E/Z7/Q27JNJA66P8OA00GHS2PQY
+[2026.08.29-05.44.45:522][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/E/Z7/Q27JNJA66P8OA00GHS2PQY
+[2026.08.29-05.44.45:522][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/Q27JNJA66P8OA00GHS2PQY66FCB1D842644D1A2F9B018CF990D66F.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/E/Z7/Q27JNJA66P8OA00GHS2PQY.uasset'
+[2026.08.29-05.44.45:523][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/9/H5/QKK5ONZZAHW44PZOAGG3JD
+[2026.08.29-05.44.45:524][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/9/H5/QKK5ONZZAHW44PZOAGG3JD
+[2026.08.29-05.44.45:524][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/QKK5ONZZAHW44PZOAGG3JDDE24A02448D501F191AFDCA9E71F0528.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/9/H5/QKK5ONZZAHW44PZOAGG3JD.uasset'
+[2026.08.29-05.44.45:525][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/E/06/7J9PXO02SRASVZUZAWKK6U
+[2026.08.29-05.44.45:526][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/E/06/7J9PXO02SRASVZUZAWKK6U
+[2026.08.29-05.44.45:526][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/7J9PXO02SRASVZUZAWKK6UEBA889214E003B868304E7A679F2E77E.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/E/06/7J9PXO02SRASVZUZAWKK6U.uasset'
+[2026.08.29-05.44.45:527][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/C/0Z/CA5N4JAURQBUKHBKN8SEMZ
+[2026.08.29-05.44.45:529][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/C/0Z/CA5N4JAURQBUKHBKN8SEMZ
+[2026.08.29-05.44.45:529][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/CA5N4JAURQBUKHBKN8SEMZF09DF8C94E87567B3965E194501E6BA7.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/C/0Z/CA5N4JAURQBUKHBKN8SEMZ.uasset'
+[2026.08.29-05.44.45:531][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/0/0V/3LZWOYYPA5UF1FJHKPBIR6
+[2026.08.29-05.44.45:532][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/0/0V/3LZWOYYPA5UF1FJHKPBIR6
+[2026.08.29-05.44.45:532][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/3LZWOYYPA5UF1FJHKPBIR6B295F8AE48AF3EB9A5796D81CE251718.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/0/0V/3LZWOYYPA5UF1FJHKPBIR6.uasset'
+[2026.08.29-05.44.45:533][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/8/ZZ/4L1QAQURUUYEL0SP3AZ40F
+[2026.08.29-05.44.45:535][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/8/ZZ/4L1QAQURUUYEL0SP3AZ40F
+[2026.08.29-05.44.45:535][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/4L1QAQURUUYEL0SP3AZ40FC934F0374A1174E273F3DEB5689A3BF8.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/8/ZZ/4L1QAQURUUYEL0SP3AZ40F.uasset'
+[2026.08.29-05.44.45:535][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/8/RE/PVV68M3F9ADU1K1JO7DARE
+[2026.08.29-05.44.45:538][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/8/RE/PVV68M3F9ADU1K1JO7DARE
+[2026.08.29-05.44.45:538][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/PVV68M3F9ADU1K1JO7DARE0CD3C37845B47A4CCDD496869D207883.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/8/RE/PVV68M3F9ADU1K1JO7DARE.uasset'
+[2026.08.29-05.44.45:539][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/E/YG/RNG4AEHF6P07B9WWDL5A3U
+[2026.08.29-05.44.45:540][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/E/YG/RNG4AEHF6P07B9WWDL5A3U
+[2026.08.29-05.44.45:540][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/RNG4AEHF6P07B9WWDL5A3U917C88294320EC8CB5F42A808EE38B4A.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/E/YG/RNG4AEHF6P07B9WWDL5A3U.uasset'
+[2026.08.29-05.44.45:541][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/EK/J1Z8QTA2AZDGP4B9E50AUJ
+[2026.08.29-05.44.45:542][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/EK/J1Z8QTA2AZDGP4B9E50AUJ
+[2026.08.29-05.44.45:542][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/J1Z8QTA2AZDGP4B9E50AUJ863355BB45A06600CCA554A7E7302AAE.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/EK/J1Z8QTA2AZDGP4B9E50AUJ.uasset'
+[2026.08.29-05.44.45:543][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/9/W0/6BVG2TXPCXHR9HZYOP8YEO
+[2026.08.29-05.44.45:544][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/9/W0/6BVG2TXPCXHR9HZYOP8YEO
+[2026.08.29-05.44.45:544][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/6BVG2TXPCXHR9HZYOP8YEO972332F84ED491BED0CBE59DCC7DE0ED.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/9/W0/6BVG2TXPCXHR9HZYOP8YEO.uasset'
+[2026.08.29-05.44.45:545][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/1/VA/0ICR6SHZXWGQA4WLBBODEC
+[2026.08.29-05.44.45:546][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/1/VA/0ICR6SHZXWGQA4WLBBODEC
+[2026.08.29-05.44.45:546][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/0ICR6SHZXWGQA4WLBBODEC9A903A1D4CCC8B249AE62C8EF7F5ECE2.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/1/VA/0ICR6SHZXWGQA4WLBBODEC.uasset'
+[2026.08.29-05.44.45:549][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/SF/84CUMIV9T6ZHINBVSD8J3X
+[2026.08.29-05.44.45:550][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/SF/84CUMIV9T6ZHINBVSD8J3X
+[2026.08.29-05.44.45:550][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/84CUMIV9T6ZHINBVSD8J3X027AECA04F506544AB36428ED6C0B425.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/SF/84CUMIV9T6ZHINBVSD8J3X.uasset'
+[2026.08.29-05.44.45:551][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/KE/71T88SQ44O3ZZ1K8RKZKY0
+[2026.08.29-05.44.45:553][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/KE/71T88SQ44O3ZZ1K8RKZKY0
+[2026.08.29-05.44.45:553][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/71T88SQ44O3ZZ1K8RKZKY03E331BB545A4F30FFCEF4D9D367BF3B5.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/KE/71T88SQ44O3ZZ1K8RKZKY0.uasset'
+[2026.08.29-05.44.45:554][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/8/MP/YWW31Y1HWPDR0GQH2ONM3I
+[2026.08.29-05.44.45:555][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/8/MP/YWW31Y1HWPDR0GQH2ONM3I
+[2026.08.29-05.44.45:555][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/YWW31Y1HWPDR0GQH2ONM3I2C92A6A04004FCC70805D08ADCC8F1C2.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/8/MP/YWW31Y1HWPDR0GQH2ONM3I.uasset'
+[2026.08.29-05.44.45:556][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/2/DA/H3VH15L2I4RQTOIAZH3P0L
+[2026.08.29-05.44.45:557][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/2/DA/H3VH15L2I4RQTOIAZH3P0L
+[2026.08.29-05.44.45:557][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/H3VH15L2I4RQTOIAZH3P0LEB20D4584B5498D30E27D99A0B8719AB.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/2/DA/H3VH15L2I4RQTOIAZH3P0L.uasset'
+[2026.08.29-05.44.45:558][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/1/78/YZLW4T6P7JXY2NZ3Z5JMOQ
+[2026.08.29-05.44.45:560][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/1/78/YZLW4T6P7JXY2NZ3Z5JMOQ
+[2026.08.29-05.44.45:560][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/YZLW4T6P7JXY2NZ3Z5JMOQD1FE4FCC4070A45A47B070AE1C7B25C2.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/1/78/YZLW4T6P7JXY2NZ3Z5JMOQ.uasset'
+[2026.08.29-05.44.45:561][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/HG/W5CC9FYFB0IEDL90PCJ9QC
+[2026.08.29-05.44.45:562][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/HG/W5CC9FYFB0IEDL90PCJ9QC
+[2026.08.29-05.44.45:562][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/W5CC9FYFB0IEDL90PCJ9QCF9EB585B44734B28E8CEEDB8369B80D7.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/HG/W5CC9FYFB0IEDL90PCJ9QC.uasset'
+[2026.08.29-05.44.45:562][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/D/KX/E46E07XJWFT3BXRZC4KQP2
+[2026.08.29-05.44.45:564][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/D/KX/E46E07XJWFT3BXRZC4KQP2
+[2026.08.29-05.44.45:564][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/E46E07XJWFT3BXRZC4KQP2F89F4AFA48D47C6B7B1F6A8351EFEBF0.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/D/KX/E46E07XJWFT3BXRZC4KQP2.uasset'
+[2026.08.29-05.44.45:566][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/9/WA/FSZJ2LQFUPBND4UZ202NV9
+[2026.08.29-05.44.45:568][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/9/WA/FSZJ2LQFUPBND4UZ202NV9
+[2026.08.29-05.44.45:568][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/FSZJ2LQFUPBND4UZ202NV94FED05D84BA3E5CD6887AFA79942B00B.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/9/WA/FSZJ2LQFUPBND4UZ202NV9.uasset'
+[2026.08.29-05.44.45:569][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/V8/0D34G3OVMQUXDNV83WNHIS
+[2026.08.29-05.44.45:570][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/V8/0D34G3OVMQUXDNV83WNHIS
+[2026.08.29-05.44.45:570][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/0D34G3OVMQUXDNV83WNHISD1F71F2146F524316007F9AE6FFD0325.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/V8/0D34G3OVMQUXDNV83WNHIS.uasset'
+[2026.08.29-05.44.45:571][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/2/VC/JCQYT9GJUW1W2QDP1DEQBR
+[2026.08.29-05.44.45:572][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/2/VC/JCQYT9GJUW1W2QDP1DEQBR
+[2026.08.29-05.44.45:572][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/JCQYT9GJUW1W2QDP1DEQBRAB473DE243C549924C1563812776CD88.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/2/VC/JCQYT9GJUW1W2QDP1DEQBR.uasset'
+[2026.08.29-05.44.45:573][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/5/UC/6Z1394DZWY7QBP0OLGPV58
+[2026.08.29-05.44.45:574][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/5/UC/6Z1394DZWY7QBP0OLGPV58
+[2026.08.29-05.44.45:574][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/6Z1394DZWY7QBP0OLGPV580187D18B4CA2E8FA121A719A9ADB88AA.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/5/UC/6Z1394DZWY7QBP0OLGPV58.uasset'
+[2026.08.29-05.44.45:575][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/D/EW/495K60PD9XUIF1SF0VXSL7
+[2026.08.29-05.44.45:577][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/D/EW/495K60PD9XUIF1SF0VXSL7
+[2026.08.29-05.44.45:577][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/495K60PD9XUIF1SF0VXSL7BA544CEB4993505678B50C91A16BF758.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/D/EW/495K60PD9XUIF1SF0VXSL7.uasset'
+[2026.08.29-05.44.45:578][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/0/7T/VGV3DP9E5L986F4LAWNYN3
+[2026.08.29-05.44.45:579][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/0/7T/VGV3DP9E5L986F4LAWNYN3
+[2026.08.29-05.44.45:579][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/VGV3DP9E5L986F4LAWNYN343D495F642AD527B9E7132868697139C.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/0/7T/VGV3DP9E5L986F4LAWNYN3.uasset'
+[2026.08.29-05.44.45:580][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/6/0J/ZYB5Y2SK19PAX6RUIDUPJB
+[2026.08.29-05.44.45:582][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/6/0J/ZYB5Y2SK19PAX6RUIDUPJB
+[2026.08.29-05.44.45:582][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/ZYB5Y2SK19PAX6RUIDUPJBBDEE953346533CFA302F448C17F6A842.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/6/0J/ZYB5Y2SK19PAX6RUIDUPJB.uasset'
+[2026.08.29-05.44.45:583][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/9/GD/LWEUHR5XFY3PWUBGGG4NUE
+[2026.08.29-05.44.45:585][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/9/GD/LWEUHR5XFY3PWUBGGG4NUE
+[2026.08.29-05.44.45:585][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/LWEUHR5XFY3PWUBGGG4NUE8C8DC2F74FE71ED457EE66A0FFD6AE60.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/9/GD/LWEUHR5XFY3PWUBGGG4NUE.uasset'
+[2026.08.29-05.44.45:586][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/A/0U/V2BXOP388SLQ0Y6LZNF0K5
+[2026.08.29-05.44.45:587][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/A/0U/V2BXOP388SLQ0Y6LZNF0K5
+[2026.08.29-05.44.45:587][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/V2BXOP388SLQ0Y6LZNF0K5692FA4154A8B6ED3A5C5E2BDF7638D1B.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/A/0U/V2BXOP388SLQ0Y6LZNF0K5.uasset'
+[2026.08.29-05.44.45:588][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/A/W2/JQOLIUQEX57JZGVFRL81FH
+[2026.08.29-05.44.45:590][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/A/W2/JQOLIUQEX57JZGVFRL81FH
+[2026.08.29-05.44.45:590][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/JQOLIUQEX57JZGVFRL81FH7D46B4474D28777DC319BBBA29E27809.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/A/W2/JQOLIUQEX57JZGVFRL81FH.uasset'
+[2026.08.29-05.44.45:590][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/E/C8/0PAFQ2PPR6PI5HILDYGE5M
+[2026.08.29-05.44.45:592][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/E/C8/0PAFQ2PPR6PI5HILDYGE5M
+[2026.08.29-05.44.45:592][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/0PAFQ2PPR6PI5HILDYGE5M422CCF804572F2F2D46E41BAC7BE0E40.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/E/C8/0PAFQ2PPR6PI5HILDYGE5M.uasset'
+[2026.08.29-05.44.45:593][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/6/KR/EKZ58GYNPXY4ITPS8TSOQ8
+[2026.08.29-05.44.45:594][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/6/KR/EKZ58GYNPXY4ITPS8TSOQ8
+[2026.08.29-05.44.45:594][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/EKZ58GYNPXY4ITPS8TSOQ8097FE1E741E0A50237C4B08971301C0B.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/6/KR/EKZ58GYNPXY4ITPS8TSOQ8.uasset'
+[2026.08.29-05.44.45:596][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/0/UC/MCL76CSTV1YEEYX8VVSTYY
+[2026.08.29-05.44.45:598][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/0/UC/MCL76CSTV1YEEYX8VVSTYY
+[2026.08.29-05.44.45:598][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/MCL76CSTV1YEEYX8VVSTYY3470056243A38E9A883A07972CC2C986.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/0/UC/MCL76CSTV1YEEYX8VVSTYY.uasset'
+[2026.08.29-05.44.45:599][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/1/L7/CFIZ5GGJHMO1HBRN7U83P0
+[2026.08.29-05.44.45:601][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/1/L7/CFIZ5GGJHMO1HBRN7U83P0
+[2026.08.29-05.44.45:601][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/CFIZ5GGJHMO1HBRN7U83P05DC2E2C849A4288886F035BD6BE39E23.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/1/L7/CFIZ5GGJHMO1HBRN7U83P0.uasset'
+[2026.08.29-05.44.45:603][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/4/IE/HWZXXC0ZXSLV0RX3238T8T
+[2026.08.29-05.44.45:604][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/4/IE/HWZXXC0ZXSLV0RX3238T8T
+[2026.08.29-05.44.45:604][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/HWZXXC0ZXSLV0RX3238T8T429C63BC4EB0CFED198932955F96A0DB.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/4/IE/HWZXXC0ZXSLV0RX3238T8T.uasset'
+[2026.08.29-05.44.45:605][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/MX/4FHCWOHZUW8AGBHCLV5FHM
+[2026.08.29-05.44.45:606][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/MX/4FHCWOHZUW8AGBHCLV5FHM
+[2026.08.29-05.44.45:606][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/4FHCWOHZUW8AGBHCLV5FHM6D2965F540BABCBF81F927B26798F838.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/MX/4FHCWOHZUW8AGBHCLV5FHM.uasset'
+[2026.08.29-05.44.45:607][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/A/P7/T58EXGOX19UHM26HUZXCT3
+[2026.08.29-05.44.45:608][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/A/P7/T58EXGOX19UHM26HUZXCT3
+[2026.08.29-05.44.45:608][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/T58EXGOX19UHM26HUZXCT3047D3519464FE851692E9ABEE5770C34.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/A/P7/T58EXGOX19UHM26HUZXCT3.uasset'
+[2026.08.29-05.44.45:609][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/C/BU/U6AXWGU9NIL46JAC3LPU5I
+[2026.08.29-05.44.45:611][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/C/BU/U6AXWGU9NIL46JAC3LPU5I
+[2026.08.29-05.44.45:611][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/U6AXWGU9NIL46JAC3LPU5IEC86BAF84456ADBEEFB4539A037AD59B.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/C/BU/U6AXWGU9NIL46JAC3LPU5I.uasset'
+[2026.08.29-05.44.45:612][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/1/6N/CMVAQ9SPOYWOM73O20Y630
+[2026.08.29-05.44.45:613][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/1/6N/CMVAQ9SPOYWOM73O20Y630
+[2026.08.29-05.44.45:613][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/CMVAQ9SPOYWOM73O20Y630A13FDE4443629815FACBF08116C65EDF.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/1/6N/CMVAQ9SPOYWOM73O20Y630.uasset'
+[2026.08.29-05.44.45:615][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/OJ/46EHHRKIGAQVDBL6GJQ75U
+[2026.08.29-05.44.45:617][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/OJ/46EHHRKIGAQVDBL6GJQ75U
+[2026.08.29-05.44.45:617][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/46EHHRKIGAQVDBL6GJQ75U944CDB2549D147C734F00C996C94D711.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/3/OJ/46EHHRKIGAQVDBL6GJQ75U.uasset'
+[2026.08.29-05.44.45:617][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/1/9V/639UFKTWBF7I6HKZ12Y8NT
+[2026.08.29-05.44.45:619][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/1/9V/639UFKTWBF7I6HKZ12Y8NT
+[2026.08.29-05.44.45:619][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/639UFKTWBF7I6HKZ12Y8NTDB39906B48DFA12594DA19B149D91096.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/1/9V/639UFKTWBF7I6HKZ12Y8NT.uasset'
+[2026.08.29-05.44.45:620][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/C/L0/4V8PFEBZJWE5UDANBQ6HB1
+[2026.08.29-05.44.45:621][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/C/L0/4V8PFEBZJWE5UDANBQ6HB1
+[2026.08.29-05.44.45:621][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/4V8PFEBZJWE5UDANBQ6HB1FA49A526473E7581C8E9C49C5586967B.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/C/L0/4V8PFEBZJWE5UDANBQ6HB1.uasset'
+[2026.08.29-05.44.45:622][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/0/MV/WKEQBKNQOOHCYQRJYC85UI
+[2026.08.29-05.44.45:624][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/0/MV/WKEQBKNQOOHCYQRJYC85UI
+[2026.08.29-05.44.45:624][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/WKEQBKNQOOHCYQRJYC85UI847AE56742C1B6F1E67399A3148C2121.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/0/MV/WKEQBKNQOOHCYQRJYC85UI.uasset'
+[2026.08.29-05.44.45:625][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/0/N5/YT8594GKLNUNOOYIM3GFYC
+[2026.08.29-05.44.45:627][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/0/N5/YT8594GKLNUNOOYIM3GFYC
+[2026.08.29-05.44.45:627][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/YT8594GKLNUNOOYIM3GFYC481297E540D0C945D6A429A46B66180B.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/0/N5/YT8594GKLNUNOOYIM3GFYC.uasset'
+[2026.08.29-05.44.45:628][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/2/40/F7E4TME8ZOO2GPUYMM786J
+[2026.08.29-05.44.45:629][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/2/40/F7E4TME8ZOO2GPUYMM786J
+[2026.08.29-05.44.45:629][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/F7E4TME8ZOO2GPUYMM786JF4E441954209FC9BD8084EAD3733CBA2.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/2/40/F7E4TME8ZOO2GPUYMM786J.uasset'
+[2026.08.29-05.44.45:630][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/8/X6/5OCXHTPL8XE00P0IUN2XCG
+[2026.08.29-05.44.45:631][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/8/X6/5OCXHTPL8XE00P0IUN2XCG
+[2026.08.29-05.44.45:631][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/5OCXHTPL8XE00P0IUN2XCGF02665A24DB5A258B25098B38375F7ED.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/8/X6/5OCXHTPL8XE00P0IUN2XCG.uasset'
+[2026.08.29-05.44.45:632][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/D0/782FO2VNX9KS3QU2L0ZJBJ
+[2026.08.29-05.44.45:634][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/D0/782FO2VNX9KS3QU2L0ZJBJ
+[2026.08.29-05.44.45:634][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/782FO2VNX9KS3QU2L0ZJBJ8EDE35CA4BF0F5AF4D2261BD78BCE816.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/B/D0/782FO2VNX9KS3QU2L0ZJBJ.uasset'
+[2026.08.29-05.44.45:635][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/A/CW/J3MQJI00OD5PWDIWJT6XS7
+[2026.08.29-05.44.45:637][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/A/CW/J3MQJI00OD5PWDIWJT6XS7
+[2026.08.29-05.44.45:637][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/J3MQJI00OD5PWDIWJT6XS7E25B69394E408864E975ADB4F6ECC48A.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/A/CW/J3MQJI00OD5PWDIWJT6XS7.uasset'
+[2026.08.29-05.44.45:638][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/7/9P/ZZFFYNIKBEWKP2472ARF4U
+[2026.08.29-05.44.45:639][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/7/9P/ZZFFYNIKBEWKP2472ARF4U
+[2026.08.29-05.44.45:639][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/ZZFFYNIKBEWKP2472ARF4UFF34977C408FF5C78FEFA8BC78EFBA48.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/7/9P/ZZFFYNIKBEWKP2472ARF4U.uasset'
+[2026.08.29-05.44.45:640][127]LogFileHelpers: Saving Package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/D/2X/LR58V7HNXCC0NXSJID4TXB
+[2026.08.29-05.44.45:642][127]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/D/2X/LR58V7HNXCC0NXSJID4TXB
+[2026.08.29-05.44.45:642][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/LR58V7HNXCC0NXSJID4TXB1471BE0E4EC921EC1BBAE68A8137AF1F.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/__ExternalActors__/third/ThirdPerson/Lvl_ThirdPerson/D/2X/LR58V7HNXCC0NXSJID4TXB.uasset'
+[2026.08.29-05.44.45:644][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 176.233 ms (total: 11.4 sec)
+[2026.08.29-05.44.45:660][127]LogFileHelpers: Saving Package: /Game/third/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.08.29-05.44.45:661][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/third/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.08.29-05.44.45:712][127]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/third/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2026.08.29-05.44.45:712][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/third/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.08.29-05.44.45:722][127]LogSavePackage: Moving output files for package: /Game/third/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.08.29-05.44.45:722][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/BP_ThirdPersonCharacterCAFD9ECE4868D09C9FA5EB9A2CD7D360.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/third/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.08.29-05.44.45:730][127]LogFileHelpers: Saving Package: /Game/third/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2026.08.29-05.44.45:730][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/third/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2026.08.29-05.44.45:730][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/third/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2026.08.29-05.44.45:734][127]LogSavePackage: Moving output files for package: /Game/third/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2026.08.29-05.44.45:734][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/BP_ThirdPersonGameMode529ACBA6449CDDCEF28230B39940E585.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/third/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2026.08.29-05.44.45:739][127]LogFileHelpers: Saving Package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2026.08.29-05.44.45:740][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([5] browsable assets)...
+[2026.08.29-05.44.45:740][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2026.08.29-05.44.45:741][127]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2026.08.29-05.44.45:742][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/BP_ThirdPersonGameMode360C62A447CBC7C5764C02933920A83A.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2026.08.29-05.44.45:745][127]LogFileHelpers: Saving Package: /Game/third/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController
+[2026.08.29-05.44.45:745][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/third/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController] ([2] browsable assets)...
+[2026.08.29-05.44.45:745][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/third/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController]
+[2026.08.29-05.44.45:752][127]LogSavePackage: Moving output files for package: /Game/third/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController
+[2026.08.29-05.44.45:752][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/BP_ThirdPersonPlayerController887D738148F7EC35D8BD49A0015DAF56.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/third/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset'
+[2026.08.29-05.44.45:758][127]LogFileHelpers: Saving Package: /Game/third/ThirdPerson/MI_ThirdPersonColWay
+[2026.08.29-05.44.45:758][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/third/ThirdPerson/MI_ThirdPersonColWay] ([1] browsable assets)...
+[2026.08.29-05.44.45:758][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/third/ThirdPerson/MI_ThirdPersonColWay]
+[2026.08.29-05.44.45:758][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/third/ThirdPerson/MI_ThirdPersonColWay" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/third/ThirdPerson/MI_ThirdPersonColWay.uasset" SILENT=true
+[2026.08.29-05.44.45:759][127]LogSavePackage: Moving output files for package: /Game/third/ThirdPerson/MI_ThirdPersonColWay
+[2026.08.29-05.44.45:759][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/MI_ThirdPersonColWay5C210EAC44070352CB609EAEED8DC939.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/third/ThirdPerson/MI_ThirdPersonColWay.uasset'
+[2026.08.29-05.44.45:760][127]LogFileHelpers: Saving Package: /Game/ThirdPerson/MI_ThirdPersonColWay
+[2026.08.29-05.44.45:761][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/MI_ThirdPersonColWay] ([1] browsable assets)...
+[2026.08.29-05.44.45:761][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/MI_ThirdPersonColWay]
+[2026.08.29-05.44.45:761][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/MI_ThirdPersonColWay" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/ThirdPerson/MI_ThirdPersonColWay.uasset" SILENT=true
+[2026.08.29-05.44.45:761][127]LogSavePackage: Moving output files for package: /Game/ThirdPerson/MI_ThirdPersonColWay
+[2026.08.29-05.44.45:762][127]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/MI_ThirdPersonColWayC95C108543E10F0CCABB8AB25D7B7AF8.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/ThirdPerson/MI_ThirdPersonColWay.uasset'
+[2026.08.29-05.44.45:763][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.42 sec (total: 12.8 sec)
+[2026.08.29-05.44.45:834][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.08.29-05.44.45:857][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.08.29-05.44.45:881][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.08.29-05.44.45:939][127]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.08.29-05.44.45:939][127]LogContentValidation: Enabled validators:
+[2026.08.29-05.44.45:939][127]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.29-05.44.45:939][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.29-05.44.45:939][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.29-05.44.45:939][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.29-05.44.45:939][127]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.29-05.44.45:939][127]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.29-05.44.45:939][127]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.29-05.44.45:939][127]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.29-05.44.45:939][127]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.29-05.44.45:939][127]LogContentValidation: Display: Starting to validate 9 assets (67 associated objects such as actors)
+[2026.08.29-05.44.45:939][127]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.29-05.44.45:940][127]AssetCheck: /Game/third/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.08.29-05.44.45:940][127]AssetCheck: /Game/third/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.08.29-05.44.45:940][127]AssetCheck: /Game/third/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
+[2026.08.29-05.44.45:940][127]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
+[2026.08.29-05.44.45:940][127]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
+[2026.08.29-05.44.45:940][127]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
+[2026.08.29-05.44.45:940][127]AssetCheck: /Game/third/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController Validating asset
+[2026.08.29-05.44.45:940][127]AssetCheck: /Game/third/ThirdPerson/MI_ThirdPersonColWay Validating asset
+[2026.08.29-05.44.45:940][127]AssetCheck: /Game/ThirdPerson/MI_ThirdPersonColWay Validating asset
+[2026.08.29-05.44.45:940][127]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.29-05.44.45:940][127]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.29-05.44.45:940][127]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.29-05.44.45:940][127]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 9
+[2026.08.29-05.44.45:940][127]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.29-05.44.45:940][127]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.29-05.44.45:940][127]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.29-05.44.45:940][127]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.29-05.44.45:940][127]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.29-05.44.45:940][127]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.29-05.44.45:966][127]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UE_LocalProject/GitForUE5/AProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.08.29-05.45.22:714][608]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.08.29-05.45.22:724][608]LogContentBundle: [Lvl_ThirdPerson()] Generating Streaming for 0 Content Bundles.
+[2026.08.29-05.45.22:724][608]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.08.29-05.45.22:725][608]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.000 ms
+[2026.08.29-05.45.22:725][608]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.08.29-05.45.22:726][608]LogBlueprint: Compiling Blueprint '/Game/third/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter'
+[2026.08.29-05.45.22:727][608]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2026.08.29-05.45.22:759][608]LogBlueprint: Compiling Blueprint '/Game/third/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.BP_ThirdPersonPlayerController'
+[2026.08.29-05.45.22:760][608]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonPlayerController before play...
+[2026.08.29-05.45.22:787][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.08.29-05.45.22:791][608]LogPlayLevel: PlayLevel: Blueprint regeneration took 65 ms (2 blueprints)
+[2026.08.29-05.45.22:791][608]LogPlayLevel: Display: Creating online subsystem for client :Context_11
+[2026.08.29-05.45.22:795][608]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2026.08.29-05.45.22:805][609]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2026.08.29-05.45.22:805][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000870s)
+[2026.08.29-05.45.22:806][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.000923s)
+[2026.08.29-05.45.22:831][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.08.29-05.45.22:832][609]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.08.29-05.45.22:834][609]LogPlayLevel: PIE: World Init took: (0.002526s)
+[2026.08.29-05.45.22:834][609]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.08.29-05.45.22:834][609]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.08.29-05.45.22:834][609]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.08.29-05.45.22:834][609]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.08.29-05.45.22:834][609]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.08.29-05.45.22:834][609]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.08.29-05.45.22:834][609]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.08.29-05.45.22:834][609]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.08.29-05.45.22:834][609]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.08.29-05.45.22:834][609]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.08.29-05.45.22:834][609]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.08.29-05.45.22:834][609]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.08.29-05.45.22:834][609]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.08.29-05.45.22:835][609]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.08.29-05.45.22:879][609]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='扬声器 (Legion R360)'
+[2026.08.29-05.45.22:887][609]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='麦克风 (Legion R360)'
+[2026.08.29-05.45.22:900][609]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='扬声器 (Legion R360)'
+[2026.08.29-05.45.22:907][609]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='麦克风 (Legion R360)'
+[2026.08.29-05.45.22:920][609]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='扬声器 (Legion R360)'
+[2026.08.29-05.45.22:928][609]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='麦克风 (Legion R360)'
+[2026.08.29-05.45.22:934][609]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.08.29-05.45.22:934][609]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.08.29-05.45.22:935][609]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.08.29-05.45.22:935][609]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.08.29-05.45.22:941][609]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.08.29-05.45.22:941][609]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.08.29-05.45.22:941][609]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.08.29-05.45.22:941][609]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Legion R360)
+[2026.08.29-05.45.22:941][609]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.08.29-05.45.22:941][609]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.08.29-05.45.22:941][609]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.08.29-05.45.22:942][609]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.08.29-05.45.22:945][609]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.08.29-05.45.22:947][609]LogInit: FAudioDevice initialized with ID 5.
+[2026.08.29-05.45.22:947][609]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainLevel'.
+[2026.08.29-05.45.22:947][609]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.08.29-05.45.23:019][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.29-05.45.23:019][609]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.08.29-05.45.23:022][609]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.08.29-13.45.23
+[2026.08.29-05.45.23:024][609]LogWorld: Bringing up level for play took: 0.000382
+[2026.08.29-05.45.23:024][609]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.08.29-05.45.23:032][609]PIE: Server logged in
+[2026.08.29-05.45.23:035][609]PIE: Play in editor total start time 0.312 seconds.
+[2026.08.29-05.45.23:171][610]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.08.29-05.45.27:909][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.29-05.45.27:909][896]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2026.08.29-05.45.27:909][896]LogSlate: Window 'AProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.08.29-05.45.27:922][896]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.08.29-05.45.27:922][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.29-05.45.27:923][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.08.29-05.45.27:928][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.29-05.45.27:956][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.29-05.45.27:956][896]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.08.29-05.45.27:956][896]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=5, StreamState=4
+[2026.08.29-05.45.27:965][896]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.08.29-05.45.27:973][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.08.29-05.45.28:002][897]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2026.08.29-05.45.28:028][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.08.29-05.45.36:797][599]LogSlate: Window 'Delete' being destroyed
+[2026.08.29-05.45.36:807][599]Message dialog closed, result: Yes, title: Delete, text: Delete 3 folders?
+[2026.08.29-05.45.36:833][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.08.29-05.45.42:186][599]LogSlate: Window 'Delete Assets' being destroyed
+[2026.08.29-05.45.42:208][599]LogUObjectGlobals: Force Deleting 32 Package(s):
+	Asset Name: /Game/ThirdPerson/MI_ThirdPersonColWay.MI_ThirdPersonColWay
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.Default__BP_ThirdPersonGameMode_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Characters/Mannequins/Materials/Manny/MI_Manny_02_New.MI_Manny_02_New
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_MRA.T_Manny_02_MRA
+	Asset Type: Texture2D
+	Asset Name: /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_D.T_Manny_02_D
+	Asset Type: Texture2D
+	Asset Name: /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.T_Manny_02_BN
+	Asset Type: Texture2D
+	Asset Name: /Game/Characters/Mannequins/Materials/Manny/MI_Manny_01_New.MI_Manny_01_New
+	Asset Type: MaterialInstanceConstant
+[2026.08.29-05.45.42:263][599]LogDatasmithContent: Do not use the UDatasmithStaticMeshCADImportData to store CAD data as the class is now deprecated.
+[2026.08.29-05.45.42:450][599]LogMaterial: Display: Missing cached shadermap for /Game/Characters/Mannequins/Materials/Manny/MI_Manny_01_New.MI_Manny_01_New in PCD3D_SM6, Default, SM6, Editor (DDC key hash: e60362b4e9a838e4e8f288d3cf4e13183e482b33), compiling. Is special engine material.
+[2026.08.29-05.46.31:187][599]LogSkinnedAsset: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny_Simple) ...
+[2026.08.29-05.46.31:223][599]LogSkinnedAsset: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny_Simple) ...
+[2026.08.29-05.46.31:261][599]LogSkinnedAsset: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny_Simple) ...
+[2026.08.29-05.46.31:309][599]LogSkinnedAsset: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn_Simple) ...
+[2026.08.29-05.46.31:341][599]LogSkinnedAsset: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn_Simple) ...
+[2026.08.29-05.46.31:378][599]LogSkinnedAsset: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn_Simple) ...
+[2026.08.29-05.46.32:368][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.08.29-05.46.32:392][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.08.29-05.46.32:413][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.08.29-05.46.32:580][599]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UE_LocalProject/GitForUE5/AProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.08.29-05.46.35:806][929]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.08.29-05.46.35:814][929]LogContentBundle: [Lvl_ThirdPerson()] Generating Streaming for 0 Content Bundles.
+[2026.08.29-05.46.35:814][929]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.08.29-05.46.35:814][929]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 651 us (total: 1.651 ms)
+[2026.08.29-05.46.35:814][929]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.08.29-05.46.35:814][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.08.29-05.46.35:815][929]LogPlayLevel: Display: Creating online subsystem for client :Context_12
+[2026.08.29-05.46.35:818][929]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.08.29-05.46.35:834][930]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2026.08.29-05.46.35:835][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000932s)
+[2026.08.29-05.46.35:835][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.000995s)
+[2026.08.29-05.46.35:861][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.08.29-05.46.35:865][930]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.08.29-05.46.35:868][930]LogPlayLevel: PIE: World Init took: (0.002693s)
+[2026.08.29-05.46.35:868][930]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.08.29-05.46.35:868][930]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.08.29-05.46.35:868][930]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.08.29-05.46.35:868][930]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.08.29-05.46.35:868][930]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.08.29-05.46.35:868][930]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.08.29-05.46.35:868][930]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.08.29-05.46.35:868][930]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.08.29-05.46.35:868][930]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.08.29-05.46.35:868][930]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.08.29-05.46.35:868][930]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.08.29-05.46.35:868][930]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.08.29-05.46.35:869][930]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.08.29-05.46.35:869][930]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.08.29-05.46.35:912][930]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='扬声器 (Legion R360)'
+[2026.08.29-05.46.35:919][930]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='麦克风 (Legion R360)'
+[2026.08.29-05.46.35:931][930]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='扬声器 (Legion R360)'
+[2026.08.29-05.46.35:939][930]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='麦克风 (Legion R360)'
+[2026.08.29-05.46.35:950][930]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='扬声器 (Legion R360)'
+[2026.08.29-05.46.35:959][930]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='麦克风 (Legion R360)'
+[2026.08.29-05.46.35:965][930]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.08.29-05.46.35:965][930]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.08.29-05.46.35:965][930]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.08.29-05.46.35:967][930]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.08.29-05.46.35:971][930]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.08.29-05.46.35:971][930]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.08.29-05.46.35:971][930]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.08.29-05.46.35:971][930]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Legion R360)
+[2026.08.29-05.46.35:971][930]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.08.29-05.46.35:971][930]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.08.29-05.46.35:971][930]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.08.29-05.46.35:972][930]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.08.29-05.46.35:974][930]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.08.29-05.46.35:977][930]LogInit: FAudioDevice initialized with ID 6.
+[2026.08.29-05.46.35:977][930]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainLevel'.
+[2026.08.29-05.46.35:977][930]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.08.29-05.46.36:040][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.29-05.46.36:040][930]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.08.29-05.46.36:044][930]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.08.29-13.46.36
+[2026.08.29-05.46.36:044][930]LogWorld: Bringing up level for play took: 0.000329
+[2026.08.29-05.46.36:045][930]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.08.29-05.46.36:052][930]PIE: Server logged in
+[2026.08.29-05.46.36:054][930]PIE: Play in editor total start time 0.24 seconds.
+[2026.08.29-05.46.36:181][931]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.08.29-05.46.40:740][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.29-05.46.40:740][238]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2026.08.29-05.46.40:740][238]LogSlate: Window 'AProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.08.29-05.46.40:752][238]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.08.29-05.46.40:752][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.29-05.46.40:752][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.08.29-05.46.40:756][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.29-05.46.40:786][238]LogAudio: Display: Audio Device unregistered from world 'MainLevel'.
+[2026.08.29-05.46.40:786][238]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.08.29-05.46.40:786][238]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=6, StreamState=4
+[2026.08.29-05.46.40:796][238]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.08.29-05.46.40:800][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.29-05.46.40:802][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.08.29-05.46.40:832][239]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.08.29-05.46.40:858][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
