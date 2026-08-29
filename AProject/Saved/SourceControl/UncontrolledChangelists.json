@@ -499,7 +499,10 @@
 				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Roof1_BC.uasset",
 				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Roof1_HBC.uasset",
 				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Roof1_Normal.uasset",
-				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Roof1_RAS.uasset"
+				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Roof1_RAS.uasset",
+				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Materials/M_Basic.uasset",
+				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Materials/MI_Basic.uasset",
+				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para_Inst2.uasset"
 			]
 		}
 	]
