@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Maps/MainLevel.umap",
+				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Maps/Light.umap",
+				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Maps/LA.umap"
+			]
+		}
+	]
+}
