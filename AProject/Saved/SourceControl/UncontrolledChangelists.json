@@ -492,7 +492,9 @@
 				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_D.uasset",
 				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_MRA.uasset",
 				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Characters/Mannequins/Materials/Manny/MI_Manny_02_New.uasset",
-				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset"
+				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset",
+				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para_Inst.uasset",
+				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Ground1_HBC.uasset"
 			]
 		}
 	]
