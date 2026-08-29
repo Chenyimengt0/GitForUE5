@@ -2467,3 +2467,46 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.08.29-05.16.20:001][685]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.08.29-05.16.20:001][685]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
 [2026.08.29-05.16.20:048][685]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UE_LocalProject/GitForUE5/AProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: ================================================
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: Total job queries 308, among them cache hits 8 (2.60%), DDC hits 277 (89.94%), Duplicates 22 (7.14%)
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: Tracking 278 distinct input hashes that result in 196 distinct outputs (70.50%)
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: RAM used: 2.86 MiB of 9.50 GiB budget. Usage: 0.03%
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: Shaders Compiled: 1
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.03 s
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: Job execution time: average 6.38 s, max 6.38 s
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: Job life time (pending + execution): average 6.42 s, max 6.42
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: Shader code size: total 11 KiB, numShaders 1, average 11 KiB, min 11 KiB, max 11 KiB
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.42 s
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: Average processing rate: 0.16 jobs/sec
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: Total thread time: 0.556 s
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: Total thread preprocess time: 5.188 s
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: Percentage time preprocessing: 933.00%
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: Effective parallelization: 0.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.007221
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.56 sec, max 0.56 sec, min 0.56 sec)
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 0.56 sec, max 0.56 sec, min 0.56 sec)
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.29-05.17.05:778][540]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.29-05.17.05:779][540]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.29-05.17.05:779][540]LogShaderCompilers: Display: === Material stats ===
+[2026.08.29-05.17.05:779][540]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.08.29-05.17.05:779][540]LogShaderCompilers: Display: Materials Translated:    153
+[2026.08.29-05.17.05:779][540]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.08.29-05.17.05:779][540]LogShaderCompilers: Display: Material Translation Only: 0.05 s (39%)
+[2026.08.29-05.17.05:779][540]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.08.29-05.17.05:779][540]LogShaderCompilers: Display: Material Cache Hits: 12 (8%)
+[2026.08.29-05.17.05:779][540]LogShaderCompilers: Display: ================================================
+[2026.08.29-05.17.06:006][564]LogSlate: Window 'Add Content to the Project' being destroyed
+[2026.08.29-05.17.53:014][474]LogStreaming: Display: FlushAsyncLoading(519): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.29-05.17.53:124][474]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.08.29-05.17.53:421][499]LogModuleManager: InternalLoadLibrary: 'HierarchicalLODUtilities' ('E:/Epic_game/UE_5.8/Engine/Binaries/Win64/UnrealEditor-HierarchicalLODUtilities.dll')
