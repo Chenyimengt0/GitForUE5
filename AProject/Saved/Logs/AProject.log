@@ -3283,3 +3283,85 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.08.29-05.37.27:693][296]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2125.281006
 [2026.08.29-05.37.28:692][299]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.08.29-05.37.28:692][299]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2125.947510, Update Interval: 303.407684
+[2026.08.29-05.43.00:644][487]LogStreaming: Display: FlushAsyncLoading(530): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.29-05.43.00:679][487]LogInterchangeEngine: [Pending] Importing
+[2026.08.29-05.43.00:679][487]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/yimeng.chen03/Desktop/military_trenches_ground_dirt_fine_02_yd0keak_4k/T_Ground1_RAS.png]
+[2026.08.29-05.43.00:681][487]LogInterchangeEngine: [Pending] Importing - Importing (2)
+[2026.08.29-05.43.00:681][487]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/yimeng.chen03/Desktop/military_trenches_ground_dirt_fine_02_yd0keak_4k/T_Ground1_Basecolor.jpg]
+[2026.08.29-05.43.00:681][487]LogInterchangeEngine: [Pending] Importing - Importing (3)
+[2026.08.29-05.43.00:681][487]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/yimeng.chen03/Desktop/military_trenches_ground_dirt_fine_02_yd0keak_4k/T_Ground1_Normal.jpg]
+[2026.08.29-05.43.00:682][487]LogInterchangeEngine: [Pending] Importing - Importing (4)
+[2026.08.29-05.43.00:682][487]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/yimeng.chen03/Desktop/military_trenches_ground_dirt_fine_02_yd0keak_4k/T_Ground1_Displacement.jpg]
+[2026.08.29-05.43.01:363][489]LogStreaming: Display: FlushAsyncLoading(540): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.29-05.43.01:366][490]LogInterchangeImport: JPEG file [C:/Users/yimeng.chen03/Desktop/military_trenches_ground_dirt_fine_02_yd0keak_4k/T_Ground1_Displacement.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.08.29-05.43.01:366][490]LogInterchangeImport: JPEG file [C:/Users/yimeng.chen03/Desktop/military_trenches_ground_dirt_fine_02_yd0keak_4k/T_Ground1_Normal.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.08.29-05.43.01:366][490]LogInterchangeImport: JPEG file [C:/Users/yimeng.chen03/Desktop/military_trenches_ground_dirt_fine_02_yd0keak_4k/T_Ground1_Basecolor.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.08.29-05.43.01:658][490]LogTexture: Display: Building texture TwoD: /Game/Environment/Block/Textures/T_Ground1_RAS.T_Ground1_RAS (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 331.083323 MB), EncodeSpeed: Fast
+[2026.08.29-05.43.01:723][491]LogInterchangeEngine: Display: Interchange import completed [C:/Users/yimeng.chen...t_fine_02_yd0keak_4k/T_Ground1_RAS.png]
+[2026.08.29-05.43.01:723][491]LogInterchangeEngine: [Pending] Importing - Importing (3)
+[2026.08.29-05.43.01:773][491]LogTexture: Display: Building texture TwoD: /Game/Environment/Block/Textures/T_Ground1_Basecolor.T_Ground1_Basecolor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.08.29-05.43.01:845][491]LogInterchangePipeline: Display: Auto-detected normal map
+[2026.08.29-05.43.01:982][492]LogTexture: Display: Building texture TwoD: /Game/Environment/Block/Textures/T_Ground1_Normal.T_Ground1_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.08.29-05.43.02:148][494]LogTexture: Display: Building texture TwoD: /Game/Environment/Block/Textures/T_Ground1_Displacement.T_Ground1_Displacement (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.08.29-05.43.02:220][494]LogInterchangeEngine: Display: Interchange import completed [C:/Users/yimeng.chen...t_fine_02_yd0keak_4k/T_Ground1_Basecolor.jpg]
+[2026.08.29-05.43.02:220][494]LogInterchangeEngine: [Pending] Importing - Importing (2)
+[2026.08.29-05.43.02:349][496]LogInterchangeEngine: Display: Interchange import completed [C:/Users/yimeng.chen...t_fine_02_yd0keak_4k/T_Ground1_Normal.jpg]
+[2026.08.29-05.43.02:349][496]LogInterchangeEngine: [Pending] Importing - Importing (1)
+[2026.08.29-05.43.02:371][498]LogInterchangeEngine: Display: Interchange import completed [C:/Users/yimeng.chen...t_fine_02_yd0keak_4k/T_Ground1_Displacement.jpg]
+[2026.08.29-05.43.02:385][498]LogInterchangeEngine: Display: Import Done in 1.702842 seconds.
+[2026.08.29-05.43.02:385][498]LogInterchangeEngine: [Pending] Importing - Operation Completed.
+[2026.08.29-05.43.02:385][498]LogInterchangeEngine: [Success] Import Done
+[2026.08.29-05.43.07:790][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.29-05.43.07:846][637]LogFileHelpers: Saving Package: /Game/Environment/Block/Textures/T_Ground1_Basecolor
+[2026.08.29-05.43.07:846][637]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Block/Textures/T_Ground1_Basecolor] ([1] browsable assets)...
+[2026.08.29-05.43.07:847][637]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Environment/Block/Textures/T_Ground1_Basecolor.T_Ground1_Basecolor]
+[2026.08.29-05.43.07:847][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Block/Textures/T_Ground1_Basecolor]
+[2026.08.29-05.43.07:854][637]LogSavePackage: Moving output files for package: /Game/Environment/Block/Textures/T_Ground1_Basecolor
+[2026.08.29-05.43.07:854][637]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/T_Ground1_Basecolor0BCC86234F5C537E2DFCD281348C9795.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Ground1_Basecolor.uasset'
+[2026.08.29-05.43.07:856][637]LogFileHelpers: Saving Package: /Game/Environment/Block/Textures/T_Ground1_Displacement
+[2026.08.29-05.43.07:856][637]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Block/Textures/T_Ground1_Displacement] ([1] browsable assets)...
+[2026.08.29-05.43.07:857][637]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Environment/Block/Textures/T_Ground1_Displacement.T_Ground1_Displacement]
+[2026.08.29-05.43.07:858][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Block/Textures/T_Ground1_Displacement]
+[2026.08.29-05.43.07:862][637]LogSavePackage: Moving output files for package: /Game/Environment/Block/Textures/T_Ground1_Displacement
+[2026.08.29-05.43.07:862][637]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/T_Ground1_DisplacementBC97DA4E450F2A84D9D0388AB03553A9.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Ground1_Displacement.uasset'
+[2026.08.29-05.43.07:863][637]LogFileHelpers: Saving Package: /Game/Environment/Block/Textures/T_Ground1_Normal
+[2026.08.29-05.43.07:863][637]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Block/Textures/T_Ground1_Normal] ([1] browsable assets)...
+[2026.08.29-05.43.07:864][637]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Environment/Block/Textures/T_Ground1_Normal.T_Ground1_Normal]
+[2026.08.29-05.43.07:864][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Block/Textures/T_Ground1_Normal]
+[2026.08.29-05.43.07:873][637]LogSavePackage: Moving output files for package: /Game/Environment/Block/Textures/T_Ground1_Normal
+[2026.08.29-05.43.07:873][637]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/T_Ground1_Normal26BF3DC54FDD570272B8CE8780EF252B.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Ground1_Normal.uasset'
+[2026.08.29-05.43.07:874][637]LogFileHelpers: Saving Package: /Game/Environment/Block/Textures/T_Ground1_RAS
+[2026.08.29-05.43.07:874][637]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Block/Textures/T_Ground1_RAS] ([1] browsable assets)...
+[2026.08.29-05.43.07:877][637]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Environment/Block/Textures/T_Ground1_RAS.T_Ground1_RAS]
+[2026.08.29-05.43.07:877][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Block/Textures/T_Ground1_RAS]
+[2026.08.29-05.43.07:877][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Block/Textures/T_Ground1_RAS" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Ground1_RAS.uasset" SILENT=true
+[2026.08.29-05.43.07:917][637]LogSavePackage: Moving output files for package: /Game/Environment/Block/Textures/T_Ground1_RAS
+[2026.08.29-05.43.07:917][637]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/T_Ground1_RAS9D509A0B464AD556C1842995DB6EE261.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Ground1_RAS.uasset'
+[2026.08.29-05.43.07:932][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.178 ms (total: 2.01 sec)
+[2026.08.29-05.43.07:995][637]LogContentValidation: Enabled validators:
+[2026.08.29-05.43.07:996][637]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.29-05.43.07:996][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.29-05.43.07:996][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.29-05.43.07:996][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.29-05.43.07:996][637]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.29-05.43.07:996][637]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.29-05.43.07:996][637]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.29-05.43.07:996][637]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.29-05.43.07:996][637]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.29-05.43.07:996][637]LogContentValidation: Display: Starting to validate 4 assets (0 associated objects such as actors)
+[2026.08.29-05.43.07:996][637]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.29-05.43.07:996][637]AssetCheck: /Game/Environment/Block/Textures/T_Ground1_Basecolor Validating asset
+[2026.08.29-05.43.07:996][637]AssetCheck: /Game/Environment/Block/Textures/T_Ground1_Displacement Validating asset
+[2026.08.29-05.43.07:996][637]AssetCheck: /Game/Environment/Block/Textures/T_Ground1_Normal Validating asset
+[2026.08.29-05.43.07:996][637]AssetCheck: /Game/Environment/Block/Textures/T_Ground1_RAS Validating asset
+[2026.08.29-05.43.07:996][637]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.29-05.43.07:996][637]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.29-05.43.07:996][637]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.29-05.43.07:996][637]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 4
+[2026.08.29-05.43.07:996][637]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.29-05.43.07:996][637]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.29-05.43.07:996][637]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.29-05.43.07:996][637]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.29-05.43.07:996][637]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.29-05.43.07:996][637]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.29-05.43.08:054][637]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UE_LocalProject/GitForUE5/AProject/Saved/SourceControl/UncontrolledChangelists.json

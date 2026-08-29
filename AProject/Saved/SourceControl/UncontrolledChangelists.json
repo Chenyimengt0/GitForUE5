@@ -10,7 +10,11 @@
 				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Maps/LA.umap",
 				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
 				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Maps/character.umap",
-				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para.uasset"
+				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para.uasset",
+				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Ground1_Basecolor.uasset",
+				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Ground1_Displacement.uasset",
+				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Ground1_Normal.uasset",
+				"E:/Epic_game/UE_LocalProject/GitForUE5/AProject/Content/Environment/Block/Textures/T_Ground1_RAS.uasset"
 			]
 		}
 	]
