@@ -1,0 +1,119 @@
+[49204:47436:0829/131152.413:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[49204:47436:0829/131152.471:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21828:77604:0829/131232.471:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21828:56600:0829/131232.487:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21828:56600:0829/131232.488:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21828:56600:0829/131232.488:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[81816:16908:0829/131232.580:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[81816:16908:0829/131232.581:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[81816:16908:0829/131232.581:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[21828:56600:0829/131232.581:WARNING:stun_port.cc(442)] Port[103c400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[21828:56600:0829/131232.581:WARNING:stun_port.cc(442)] Port[103cc00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[21828:56600:0829/131232.582:WARNING:stun_port.cc(442)] Port[103d400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[81816:16908:0829/131232.607:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[81816:16908:0829/131232.607:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[81816:16908:0829/131232.607:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[21828:56600:0829/131232.608:WARNING:stun_port.cc(442)] Port[103c400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[21828:56600:0829/131232.608:WARNING:stun_port.cc(442)] Port[103cc00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[21828:56600:0829/131232.608:WARNING:stun_port.cc(442)] Port[103d400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[81816:16908:0829/131232.609:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[81816:16908:0829/131232.609:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[21828:56600:0829/131232.609:WARNING:stun_port.cc(442)] Port[103c400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[81816:16908:0829/131232.609:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[21828:56600:0829/131232.610:WARNING:stun_port.cc(442)] Port[103cc00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[21828:56600:0829/131232.610:WARNING:stun_port.cc(442)] Port[103d400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[49204:73428:0829/131232.780:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[49204:47436:0829/131233.213:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[49204:47436:0829/131233.214:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[49204:47436:0829/131233.214:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[49204:47436:0829/131233.214:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[49204:73428:0829/131233.217:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[63192:63900:0829/131233.548:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[63192:30040:0829/131233.574:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[63192:30040:0829/131233.575:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[63192:30040:0829/131233.575:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[81816:16908:0829/131233.657:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[81816:16908:0829/131233.657:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[81816:16908:0829/131233.658:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[81816:16908:0829/131233.658:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[81816:16908:0829/131233.658:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[81816:16908:0829/131233.658:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[81816:16908:0829/131233.658:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[81816:16908:0829/131233.658:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[81816:16908:0829/131233.658:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[63192:30040:0829/131233.658:WARNING:stun_port.cc(442)] Port[143cc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[63192:30040:0829/131233.658:WARNING:stun_port.cc(442)] Port[143dc00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[63192:30040:0829/131233.658:WARNING:stun_port.cc(442)] Port[143e400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[63192:30040:0829/131233.658:WARNING:stun_port.cc(442)] Port[143cc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[63192:30040:0829/131233.658:WARNING:stun_port.cc(442)] Port[143dc00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[63192:30040:0829/131233.658:WARNING:stun_port.cc(442)] Port[143e400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[63192:30040:0829/131233.658:WARNING:stun_port.cc(442)] Port[143cc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[63192:30040:0829/131233.659:WARNING:stun_port.cc(442)] Port[143dc00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[63192:30040:0829/131233.659:WARNING:stun_port.cc(442)] Port[143e400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[63192:63900:0829/131235.334:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[72232:82348:0829/131243.259:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[72232:82348:0829/131243.260:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[72232:82348:0829/131243.260:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[49204:73428:0829/131245.610:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,10]
+[49204:47436:0829/131245.800:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,10]
+[49204:47436:0829/131245.801:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,10]
+[49204:47436:0829/131245.801:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,10]
+[49204:47436:0829/131245.801:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,10]
+[49204:47436:0829/131245.802:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,13]
+[49204:47436:0829/131245.802:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,13]
+[49204:47436:0829/131245.802:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,13]
+[49204:47436:0829/131245.802:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,13]
+[49204:47436:0829/131247.371:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[49204:47436:0829/131247.371:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[60512:34484:0829/131258.339:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame B-965F9DF18EB27CBBB3CCBB664B763E24 will be ignored
+[72232:82348:0829/131258.467:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[72232:82348:0829/131258.468:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[72232:82348:0829/131258.468:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[72232:82348:0829/131258.469:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[72232:82348:0829/131258.469:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[49204:73428:0829/131259.018:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,9]
+[49204:47436:0829/131259.939:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,9]
+[49204:47436:0829/131259.939:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,9]
+[49204:47436:0829/131259.940:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,9]
+[49204:47436:0829/131259.940:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,9]
+[79680:45152:0829/131414.600:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame D-C4AF3DE4DF61F94040D7A0C834E192F0 will be ignored
+[83044:81340:0829/131415.138:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 12-8FDD26442FCBA13D9B3CF0F4A99FB830 will be ignored
+[79680:45152:0829/131422.065:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame D-2DF169B864093D04D09EE4DE33735DDC will be ignored
+[72232:82348:0829/131422.258:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[72232:82348:0829/131422.258:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[72232:82348:0829/131422.259:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[72232:82348:0829/131422.260:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[72232:82348:0829/131422.260:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[72232:82348:0829/131422.260:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[72232:82348:0829/131422.261:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[72232:82348:0829/131422.261:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[72232:82348:0829/131422.261:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[72232:82348:0829/131422.261:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[49204:73428:0829/131425.343:WARNING:browser_info.cc(345)] Returning a speculative frame for [21,9]
+[49204:47436:0829/131425.370:WARNING:browser_info.cc(345)] Returning a speculative frame for [21,9]
+[49204:47436:0829/131425.371:WARNING:browser_info.cc(345)] Returning a speculative frame for [21,9]
+[49204:47436:0829/131425.371:WARNING:browser_info.cc(345)] Returning a speculative frame for [21,9]
+[49204:47436:0829/131425.371:WARNING:browser_info.cc(345)] Returning a speculative frame for [21,9]
+[49204:47436:0829/131425.372:WARNING:browser_info.cc(345)] Returning a speculative frame for [21,12]
+[49204:47436:0829/131425.372:WARNING:browser_info.cc(345)] Returning a speculative frame for [21,12]
+[49204:47436:0829/131425.372:WARNING:browser_info.cc(345)] Returning a speculative frame for [21,12]
+[49204:47436:0829/131425.372:WARNING:browser_info.cc(345)] Returning a speculative frame for [21,12]
+[49204:47436:0829/131425.768:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[49204:47436:0829/131425.769:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[81816:16908:0829/131524.913:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 1
+[81816:16908:0829/131525.163:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 15
+[81816:16908:0829/131525.163:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 13
+[81816:16908:0829/131525.163:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 17
+[81816:16908:0829/131525.163:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 21
+[81816:16908:0829/131525.163:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 19
+[81816:16908:0829/131525.163:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 23
+[81816:16908:0829/131525.163:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 27
+[81816:16908:0829/131525.163:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 25
+[81816:16908:0829/131525.163:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 29
+[81816:16908:0829/131525.163:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 31
+[81816:16908:0829/131525.337:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 3
+[81816:16908:0829/131525.397:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 5
+[81816:16908:0829/131525.398:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 7
+[81816:16908:0829/131525.398:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 9
+[58912:53524:0829/131527.171:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 17-A484D80AA8FE5FB3B8DCAB311BED78A1 will be ignored
+[37264:52036:0829/131529.901:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
