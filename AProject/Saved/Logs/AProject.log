@@ -9136,3 +9136,1058 @@ FPackageName: Skipped package /Game/DemoTemplate/_Core/MI_Intro_Colorway has a v
 [2026.08.30-01.37.20:985][246]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 74096.039062, Update Interval: 301.062042
 [2026.08.30-01.39.59:719][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
 [2026.08.30-01.39.59:721][722]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.022
+[2026.08.30-01.43.04:991][278]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 74442.742188
+[2026.08.30-01.43.05:991][281]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-01.43.05:991][281]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 74443.414062, Update Interval: 351.694092
+[2026.08.30-01.49.35:665][450]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 74836.226562
+[2026.08.30-01.49.36:665][453]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-01.49.36:665][453]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 74836.898438, Update Interval: 318.029114
+[2026.08.30-01.50.00:407][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.08.30-01.50.00:409][524]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.025
+[2026.08.30-01.55.36:677][533]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 75199.867188
+[2026.08.30-01.55.37:677][536]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-01.55.37:677][536]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 75200.539062, Update Interval: 316.578888
+[2026.08.30-02.00.01:081][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.08.30-02.00.01:084][326]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.026
+[2026.08.30-02.01.28:353][588]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 75554.210938
+[2026.08.30-02.01.29:355][591]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-02.01.29:355][591]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 75554.882812, Update Interval: 307.269501
+[2026.08.30-02.04.46:513][183]LogDerivedDataCache: C:/Users/yimeng.chen03/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:47.080 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 24885 files in 24813 folders with total size 917 MiB.
+[2026.08.30-02.07.23:362][653]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 75911.851562
+[2026.08.30-02.07.24:363][656]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-02.07.24:363][656]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 75912.523438, Update Interval: 346.464417
+[2026.08.30-02.10.01:764][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.08.30-02.10.01:767][128]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.027
+[2026.08.30-02.13.41:036][786]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 76292.257812
+[2026.08.30-02.13.42:035][789]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-02.13.42:035][789]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 76292.929688, Update Interval: 329.566956
+[2026.08.30-02.19.57:709][916]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 76671.453125
+[2026.08.30-02.19.58:710][919]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-02.19.58:710][919]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 76672.125000, Update Interval: 303.790405
+[2026.08.30-02.20.02:453][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.08.30-02.20.02:456][930]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.027
+[2026.08.30-02.25.56:718][993]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 77032.562500
+[2026.08.30-02.25.57:717][996]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-02.25.57:717][996]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 77033.234375, Update Interval: 305.927307
+[2026.08.30-02.30.03:123][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.08.30-02.30.03:125][732]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.026
+[2026.08.30-02.31.35:726][ 10]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 77373.421875
+[2026.08.30-02.31.36:726][ 13]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-02.31.36:726][ 13]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 77374.093750, Update Interval: 309.045685
+[2026.08.30-02.37.24:400][ 56]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 77723.945312
+[2026.08.30-02.37.25:400][ 59]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-02.37.25:400][ 59]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 77724.609375, Update Interval: 343.212372
+[2026.08.30-02.40.03:810][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.08.30-02.40.03:813][534]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.026
+[2026.08.30-02.43.41:407][187]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 78102.773438
+[2026.08.30-02.43.42:407][190]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-02.43.42:407][190]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 78103.445312, Update Interval: 326.274597
+[2026.08.30-02.50.01:747][328]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 78484.835938
+[2026.08.30-02.50.02:746][331]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-02.50.02:746][331]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 78485.507812, Update Interval: 318.761566
+[2026.08.30-02.50.04:481][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.08.30-02.50.04:483][336]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.027
+[2026.08.30-02.56.09:419][431]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 78853.945312
+[2026.08.30-02.56.10:419][434]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-02.56.10:419][434]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 78854.609375, Update Interval: 339.812012
+[2026.08.30-03.00.05:172][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.08.30-03.00.05:174][138]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.029
+[2026.08.30-03.02.24:092][555]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 79230.187500
+[2026.08.30-03.02.25:093][558]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-03.02.25:093][558]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 79230.859375, Update Interval: 345.935242
+[2026.08.30-03.04.46:574][983]LogDerivedDataCache: C:/Users/yimeng.chen03/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:47.098 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 24885 files in 24813 folders with total size 917 MiB.
+[2026.08.30-03.09.08:102][767]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 79635.648438
+[2026.08.30-03.09.09:099][770]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-03.09.09:099][770]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 79636.312500, Update Interval: 359.091766
+[2026.08.30-03.10.05:848][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.08.30-03.10.05:850][940]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.031
+[2026.08.30-03.15.55:772][990]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 80045.351562
+[2026.08.30-03.15.56:773][993]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-03.15.56:773][993]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 80046.023438, Update Interval: 352.417358
+[2026.08.30-03.20.06:513][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.08.30-03.20.06:515][742]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.026
+[2026.08.30-03.22.36:445][192]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 80448.507812
+[2026.08.30-03.22.37:445][195]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-03.22.37:445][195]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 80449.179688, Update Interval: 358.416077
+[2026.08.30-03.29.33:784][444]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 80868.367188
+[2026.08.30-03.29.34:784][447]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-03.29.34:785][447]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 80869.039062, Update Interval: 333.176056
+[2026.08.30-03.30.07:180][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.08.30-03.30.07:182][544]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.022
+[2026.08.30-03.35.53:125][582]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 81249.851562
+[2026.08.30-03.35.54:128][585]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-03.35.54:128][585]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 81250.515625, Update Interval: 348.568390
+[2026.08.30-03.40.07:869][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.08.30-03.40.07:872][346]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.025
+[2026.08.30-03.42.12:798][721]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 81631.031250
+[2026.08.30-03.42.13:799][724]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-03.42.13:799][724]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 81631.695312, Update Interval: 349.941711
+[2026.08.30-03.48.48:805][909]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 82028.492188
+[2026.08.30-03.48.49:804][912]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-03.48.49:804][912]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 82029.156250, Update Interval: 327.137054
+[2026.08.30-03.50.08:545][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.08.30-03.50.08:548][148]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.028
+[2026.08.30-03.55.12:813][ 61]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 82414.140625
+[2026.08.30-03.55.13:812][ 64]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-03.55.13:812][ 64]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 82414.812500, Update Interval: 339.086884
+[2026.08.30-04.00.11:904][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.08.30-04.00.11:906][958]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.028
+[2026.08.30-04.01.49:824][252]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 82812.765625
+[2026.08.30-04.01.50:825][255]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-04.01.50:825][255]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 82813.429688, Update Interval: 304.411133
+[2026.08.30-04.04.46:606][783]LogDerivedDataCache: C:/Users/yimeng.chen03/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:47.089 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 24885 files in 24813 folders with total size 917 MiB.
+[2026.08.30-04.07.40:158][303]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 83164.507812
+[2026.08.30-04.07.41:160][306]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-04.07.41:160][306]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 83165.179688, Update Interval: 359.774780
+[2026.08.30-04.08.49:169][144]LogContentBrowser: Attempting asset rename: MainLevel -> Lookdev
+[2026.08.30-04.08.49:272][144]LogDatasmithContent: Do not use the UDatasmithStaticMeshCADImportData to store CAD data as the class is now deprecated.
+[2026.08.30-04.08.52:643][144]LogSlate: Window 'Message' being destroyed
+[2026.08.30-04.08.52:659][144]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+MainLevel
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2026.08.30-04.08.52:684][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.30-04.08.52:684][144]LogFileHelpers: Saving Map: /Game/Maps/Lookdev
+[2026.08.30-04.08.52:684][144]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Lookdev] ([1] browsable assets)...
+[2026.08.30-04.08.52:684][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Lookdev]
+[2026.08.30-04.08.52:684][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lookdev" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Lookdev.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.30-04.08.52:732][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.08.30-04.08.52:746][144]LogSavePackage: Moving output files for package: /Game/Maps/Lookdev
+[2026.08.30-04.08.52:746][144]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/Lookdev88301FCA428DF8C8FF7FBFA3DE091E12.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Lookdev.umap'
+[2026.08.30-04.08.52:757][144]LogFileHelpers: Saving Package: /Game/Maps/MainLevel
+[2026.08.30-04.08.52:757][144]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/MainLevel] ([1] browsable assets)...
+[2026.08.30-04.08.52:757][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/MainLevel]
+[2026.08.30-04.08.52:757][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainLevel.umap" SILENT=true
+[2026.08.30-04.08.52:759][144]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2026.08.30-04.08.52:759][144]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/MainLevel1ADE5225452C457234F5408867667A19.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainLevel.umap'
+[2026.08.30-04.08.52:762][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.982 ms (total: 18.6 sec)
+[2026.08.30-04.08.52:835][144]LogContentValidation: Enabled validators:
+[2026.08.30-04.08.52:836][144]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.30-04.08.52:836][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.30-04.08.52:836][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.30-04.08.52:836][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.30-04.08.52:836][144]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.30-04.08.52:836][144]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.30-04.08.52:836][144]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.30-04.08.52:836][144]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.30-04.08.52:836][144]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.30-04.08.52:836][144]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.08.30-04.08.52:836][144]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.30-04.08.52:836][144]AssetCheck: /Game/Maps/Lookdev Validating asset
+[2026.08.30-04.08.52:836][144]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2026.08.30-04.08.52:836][144]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.30-04.08.52:836][144]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.30-04.08.52:836][144]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.30-04.08.52:836][144]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.08.30-04.08.52:836][144]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.30-04.08.52:836][144]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.30-04.08.52:836][144]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.30-04.08.52:836][144]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.30-04.08.52:836][144]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.30-04.08.52:836][144]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.30-04.08.52:878][144]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UE_LocalProject/GitForUE5/AProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.08.30-04.09.22:614][655]Cmd: EDIT CUT
+[2026.08.30-04.09.22:617][655]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.30-04.09.22:618][655]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.30-04.09.22:658][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.08.30-04.09.22:664][655]LogEditorActor: Deleted 2 Actors (0.049 secs)
+[2026.08.30-04.09.25:573][927]Cmd: EDIT PASTE
+[2026.08.30-04.09.36:888][694]Cmd: SELECT NONE
+[2026.08.30-04.09.46:411][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.30-04.09.46:481][ 51]LogFileHelpers: Saving Map: /Game/Maps/LA
+[2026.08.30-04.09.46:481][ 51]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/LA] ([1] browsable assets)...
+[2026.08.30-04.09.46:481][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/LA]
+[2026.08.30-04.09.46:481][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LA" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/LA.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.30-04.09.46:506][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.08.30-04.09.46:530][ 51]LogSavePackage: Moving output files for package: /Game/Maps/LA
+[2026.08.30-04.09.46:531][ 51]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/LA78317AB8463B5BAD2D39F7B9D1F86C17.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/LA.umap'
+[2026.08.30-04.09.46:534][ 51]LogFileHelpers: Saving Map: /Game/Maps/Light
+[2026.08.30-04.09.46:534][ 51]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Light] ([1] browsable assets)...
+[2026.08.30-04.09.46:534][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Light]
+[2026.08.30-04.09.46:534][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Light" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Light.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.30-04.09.46:557][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.08.30-04.09.46:573][ 51]LogSavePackage: Moving output files for package: /Game/Maps/Light
+[2026.08.30-04.09.46:573][ 51]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/Light61A428784B892B8DE97931993802C574.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Light.umap'
+[2026.08.30-04.09.46:575][ 51]LogFileHelpers: Saving Map: /Game/Maps/Lookdev
+[2026.08.30-04.09.46:575][ 51]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Lookdev] ([1] browsable assets)...
+[2026.08.30-04.09.46:575][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Lookdev]
+[2026.08.30-04.09.46:575][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lookdev" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Lookdev.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.30-04.09.46:611][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.08.30-04.09.46:621][ 51]LogSavePackage: Moving output files for package: /Game/Maps/Lookdev
+[2026.08.30-04.09.46:622][ 51]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/LookdevF936DCFD4429DFFC6D6156B5511A4FE5.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Lookdev.umap'
+[2026.08.30-04.09.46:642][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 230.057 ms (total: 18.8 sec)
+[2026.08.30-04.09.46:698][ 51]LogContentValidation: Enabled validators:
+[2026.08.30-04.09.46:698][ 51]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.30-04.09.46:698][ 51]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.30-04.09.46:698][ 51]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.30-04.09.46:698][ 51]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.30-04.09.46:698][ 51]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.30-04.09.46:698][ 51]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.30-04.09.46:698][ 51]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.30-04.09.46:698][ 51]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.30-04.09.46:698][ 51]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.30-04.09.46:698][ 51]LogContentValidation: Display: Starting to validate 3 assets (0 associated objects such as actors)
+[2026.08.30-04.09.46:698][ 51]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.30-04.09.46:698][ 51]AssetCheck: /Game/Maps/LA Validating asset
+[2026.08.30-04.09.46:698][ 51]AssetCheck: /Game/Maps/Light Validating asset
+[2026.08.30-04.09.46:698][ 51]AssetCheck: /Game/Maps/Lookdev Validating asset
+[2026.08.30-04.09.46:698][ 51]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.30-04.09.46:699][ 51]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.30-04.09.46:699][ 51]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.30-04.09.46:699][ 51]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 3
+[2026.08.30-04.09.46:699][ 51]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.30-04.09.46:699][ 51]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.30-04.09.46:699][ 51]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.30-04.09.46:699][ 51]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.30-04.09.46:699][ 51]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.30-04.09.46:699][ 51]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.30-04.09.50:524][347]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2026.08.30-04.09.50:535][347]LogContentBrowser: Creating deferred item: NewWorld
+[2026.08.30-04.09.50:551][348]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2026.08.30-04.09.58:310][ 37]LogContentBrowser: Attempting asset rename: NewWorld -> MainWorld
+[2026.08.30-04.09.58:310][ 37]LogChaosDD: Creating Chaos Debug Draw Scene for world MainWorld
+[2026.08.30-04.09.58:322][ 37]LogContentBrowser: End creating deferred item NewWorld
+[2026.08.30-04.09.59:344][129]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.30-04.09.59:407][129]LogFileHelpers: Saving Map: /Game/Maps/MainWorld
+[2026.08.30-04.09.59:408][129]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/MainWorld] ([1] browsable assets)...
+[2026.08.30-04.09.59:408][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/MainWorld]
+[2026.08.30-04.09.59:408][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainWorld" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.30-04.09.59:439][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.08.30-04.09.59:448][129]LogSavePackage: Moving output files for package: /Game/Maps/MainWorld
+[2026.08.30-04.09.59:448][129]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/MainWorld7F062293464928A52C9032AC3F66B9B9.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld.umap'
+[2026.08.30-04.09.59:461][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.597 ms (total: 19.0 sec)
+[2026.08.30-04.09.59:524][129]LogContentValidation: Enabled validators:
+[2026.08.30-04.09.59:524][129]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.30-04.09.59:524][129]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.30-04.09.59:524][129]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.30-04.09.59:524][129]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.30-04.09.59:524][129]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.30-04.09.59:524][129]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.30-04.09.59:524][129]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.30-04.09.59:524][129]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.30-04.09.59:524][129]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.30-04.09.59:524][129]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.08.30-04.09.59:524][129]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.30-04.09.59:524][129]AssetCheck: /Game/Maps/MainWorld Validating asset
+[2026.08.30-04.09.59:524][129]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.30-04.09.59:524][129]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.30-04.09.59:524][129]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.30-04.09.59:524][129]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.08.30-04.09.59:524][129]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.30-04.09.59:524][129]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.30-04.09.59:524][129]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.30-04.09.59:524][129]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.30-04.09.59:524][129]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.30-04.09.59:524][129]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.30-04.09.59:554][129]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UE_LocalProject/GitForUE5/AProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.08.30-04.10.00:460][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.08.30-04.10.04:542][202]LogSlate: Window 'Save Content' being destroyed
+[2026.08.30-04.10.04:557][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.30-04.10.04:677][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.08.30-04.10.04:680][202]LogFileHelpers: Saving Package: /Game/Materials/M_para_Inst1
+[2026.08.30-04.10.04:680][202]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_para_Inst1] ([1] browsable assets)...
+[2026.08.30-04.10.04:734][202]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials/M_para_Inst1.M_para_Inst1]
+[2026.08.30-04.10.04:734][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_para_Inst1]
+[2026.08.30-04.10.04:734][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_para_Inst1" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para_Inst1.uasset" SILENT=true
+[2026.08.30-04.10.04:746][202]LogSavePackage: Moving output files for package: /Game/Materials/M_para_Inst1
+[2026.08.30-04.10.04:747][202]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/M_para_Inst16E2105064DC077F54A62DF8E67C04D6C.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para_Inst1.uasset'
+[2026.08.30-04.10.04:748][202]LogFileHelpers: Saving Package: /Game/Materials/M_para_Inst2
+[2026.08.30-04.10.04:748][202]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_para_Inst2] ([1] browsable assets)...
+[2026.08.30-04.10.04:758][202]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials/M_para_Inst2.M_para_Inst2]
+[2026.08.30-04.10.04:758][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_para_Inst2]
+[2026.08.30-04.10.04:758][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_para_Inst2" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para_Inst2.uasset" SILENT=true
+[2026.08.30-04.10.04:770][202]LogSavePackage: Moving output files for package: /Game/Materials/M_para_Inst2
+[2026.08.30-04.10.04:770][202]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/M_para_Inst23772D5034CA08B01AC45F0A072280585.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Materials/M_para_Inst2.uasset'
+[2026.08.30-04.10.04:849][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 291.147 ms (total: 19.3 sec)
+[2026.08.30-04.10.04:849][202]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainWorld.MainWorld
+[2026.08.30-04.10.04:849][202]Cmd: MAP LOAD FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.08.30-04.10.04:876][202]LogWorld: UWorld::CleanupWorld for Lookdev, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.10.04:876][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.10.04:877][202]LogWorld: UWorld::CleanupWorld for Light, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.10.04:877][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.10.04:877][202]LogWorld: UWorld::CleanupWorld for LA, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.10.04:877][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.10.04:877][202]LogWorld: UWorld::CleanupWorld for character, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.10.04:877][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.10.04:915][202]LogAudio: Display: Audio Device unregistered from world 'Lookdev'.
+[2026.08.30-04.10.04:916][202]LogWorld: Warning: UWorld::FinishDestroy called after InitWorld without calling CleanupWorld first.
+[2026.08.30-04.10.04:918][202]LogWorld: Warning: UWorld::FinishDestroy called after InitWorld without calling CleanupWorld first.
+[2026.08.30-04.10.04:919][202]LogWorld: Warning: UWorld::FinishDestroy called after InitWorld without calling CleanupWorld first.
+[2026.08.30-04.10.04:921][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.08.30-04.10.04:926][202]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.10.04:926][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.10.04:927][202]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.10.04:928][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.10.04:928][202]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/third/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.08.30-04.10.04:967][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.08.30-04.10.04:999][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.08.30-04.10.05:002][202]LogStreaming: Display: FlushAsyncLoading(773): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.30-04.10.05:004][202]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainWorld'.
+[2026.08.30-04.10.05:004][202]LogChaosDD: Creating Chaos Debug Draw Scene for world MainWorld
+[2026.08.30-04.10.05:029][202]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.08.30-04.10.05:072][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.08.30-04.10.05:090][202]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.08.30-04.10.05:090][202]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.147ms to complete.
+[2026.08.30-04.10.05:180][202]LogContentValidation: Enabled validators:
+[2026.08.30-04.10.05:180][202]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.30-04.10.05:180][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.30-04.10.05:180][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.30-04.10.05:180][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.30-04.10.05:180][202]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.30-04.10.05:180][202]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.30-04.10.05:180][202]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.30-04.10.05:180][202]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.30-04.10.05:180][202]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.30-04.10.05:180][202]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.08.30-04.10.05:180][202]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.30-04.10.05:180][202]AssetCheck: /Game/Materials/M_para_Inst1 Validating asset
+[2026.08.30-04.10.05:180][202]AssetCheck: /Game/Materials/M_para_Inst2 Validating asset
+[2026.08.30-04.10.05:180][202]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.30-04.10.05:180][202]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.30-04.10.05:180][202]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.30-04.10.05:180][202]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.08.30-04.10.05:180][202]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.30-04.10.05:180][202]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.30-04.10.05:180][202]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.30-04.10.05:180][202]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.30-04.10.05:180][202]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.30-04.10.05:180][202]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.30-04.10.05:223][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.08.30-04.10.05:259][203]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.08.30-04.10.07:606][410]LogStreaming: Display: FlushAsyncLoading(774): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.30-04.10.07:612][410]LogChaosDD: Creating Chaos Debug Draw Scene for world Light
+[2026.08.30-04.10.07:683][411]LogActorFactory: Actor Factory attempting to spawn World /Game/Maps/Light.Light
+[2026.08.30-04.10.07:683][411]LogActorFactory: Actor Factory attempting to spawn World /Game/Maps/Light.Light
+[2026.08.30-04.10.07:684][411]LogStreaming: Display: FlushAsyncLoading(775): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.30-04.10.08:041][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.08.30-04.10.08:045][445]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.08.30-04.10.14:338][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.30-04.10.14:404][  8]LogFileHelpers: Saving Map: /Game/Maps/MainWorld
+[2026.08.30-04.10.14:404][  8]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/MainWorld] ([1] browsable assets)...
+[2026.08.30-04.10.14:404][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/MainWorld]
+[2026.08.30-04.10.14:404][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainWorld" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.30-04.10.14:443][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.08.30-04.10.14:454][  8]LogSavePackage: Moving output files for package: /Game/Maps/MainWorld
+[2026.08.30-04.10.14:455][  8]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/MainWorld3EA90E4B40EE9FCA8C07478E05DAB6BD.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld.umap'
+[2026.08.30-04.10.14:475][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.975 ms (total: 19.4 sec)
+[2026.08.30-04.10.14:537][  8]LogContentValidation: Enabled validators:
+[2026.08.30-04.10.14:537][  8]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.30-04.10.14:537][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.30-04.10.14:537][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.30-04.10.14:537][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.30-04.10.14:537][  8]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.30-04.10.14:537][  8]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.30-04.10.14:537][  8]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.30-04.10.14:537][  8]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.30-04.10.14:537][  8]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.30-04.10.14:537][  8]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.08.30-04.10.14:537][  8]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.30-04.10.14:537][  8]AssetCheck: /Game/Maps/MainWorld Validating asset
+[2026.08.30-04.10.14:537][  8]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.30-04.10.14:537][  8]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.30-04.10.14:537][  8]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.30-04.10.14:537][  8]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.08.30-04.10.14:537][  8]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.30-04.10.14:537][  8]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.30-04.10.14:537][  8]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.30-04.10.14:537][  8]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.30-04.10.14:537][  8]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.30-04.10.14:537][  8]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.30-04.10.20:859][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.08.30-04.10.20:862][571]LogStreaming: Display: FlushAsyncLoading(776): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.30-04.10.20:866][571]LogChaosDD: Creating Chaos Debug Draw Scene for world Lookdev
+[2026.08.30-04.10.20:867][571]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Lookdev.Lookdev
+[2026.08.30-04.10.20:867][571]Cmd: MAP LOAD FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Lookdev.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.08.30-04.10.20:884][571]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.10.20:884][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.10.20:884][571]LogWorld: UWorld::CleanupWorld for Light, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.10.20:884][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.10.20:909][571]LogAudio: Display: Audio Device unregistered from world 'MainWorld'.
+[2026.08.30-04.10.20:909][571]LogWorld: Warning: UWorld::FinishDestroy called after InitWorld without calling CleanupWorld first.
+[2026.08.30-04.10.20:911][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.08.30-04.10.20:913][571]LogWorld: UWorld::CleanupWorld for Lookdev, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.10.20:913][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.10.20:940][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.08.30-04.10.21:036][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.08.30-04.10.21:039][571]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lookdev'.
+[2026.08.30-04.10.21:039][571]LogChaosDD: Creating Chaos Debug Draw Scene for world Lookdev
+[2026.08.30-04.10.21:042][571]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/character) is flushing async loading
+[2026.08.30-04.10.21:044][571]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/LA) is flushing async loading
+[2026.08.30-04.10.21:048][571]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Light) is flushing async loading
+[2026.08.30-04.10.21:068][571]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.08.30-04.10.21:096][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.08.30-04.10.21:106][571]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.08.30-04.10.21:106][571]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2026.08.30-04.10.21:158][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.08.30-04.10.21:234][573]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.08.30-04.10.24:315][825]Cmd: EDIT CUT
+[2026.08.30-04.10.24:318][825]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.30-04.10.24:345][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.08.30-04.10.24:348][825]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2026.08.30-04.10.26:312][  1]Cmd: EDIT PASTE
+[2026.08.30-04.10.49:348][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.30-04.10.49:399][535]LogFileHelpers: Saving Map: /Game/Maps/LA
+[2026.08.30-04.10.49:399][535]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/LA] ([1] browsable assets)...
+[2026.08.30-04.10.49:399][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/LA]
+[2026.08.30-04.10.49:399][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LA" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/LA.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.30-04.10.49:427][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.08.30-04.10.49:455][535]LogSavePackage: Moving output files for package: /Game/Maps/LA
+[2026.08.30-04.10.49:456][535]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/LAE29B4E3840F3586A6C8708A744AF31D2.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/LA.umap'
+[2026.08.30-04.10.49:461][535]LogFileHelpers: Saving Map: /Game/Maps/Light
+[2026.08.30-04.10.49:461][535]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Light] ([1] browsable assets)...
+[2026.08.30-04.10.49:461][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Light]
+[2026.08.30-04.10.49:461][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Light" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Light.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.30-04.10.49:482][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.08.30-04.10.49:500][535]LogSavePackage: Moving output files for package: /Game/Maps/Light
+[2026.08.30-04.10.49:502][535]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/Light9D1D86D846784D2C81B922A970262B9C.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Light.umap'
+[2026.08.30-04.10.49:517][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 169.645 ms (total: 19.6 sec)
+[2026.08.30-04.10.49:582][535]LogContentValidation: Enabled validators:
+[2026.08.30-04.10.49:582][535]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.30-04.10.49:582][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.30-04.10.49:582][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.30-04.10.49:582][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.30-04.10.49:582][535]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.30-04.10.49:582][535]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.30-04.10.49:582][535]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.30-04.10.49:582][535]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.30-04.10.49:582][535]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.30-04.10.49:582][535]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.08.30-04.10.49:582][535]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.30-04.10.49:583][535]AssetCheck: /Game/Maps/LA Validating asset
+[2026.08.30-04.10.49:583][535]AssetCheck: /Game/Maps/Light Validating asset
+[2026.08.30-04.10.49:583][535]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.30-04.10.49:583][535]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.30-04.10.49:583][535]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.30-04.10.49:583][535]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.08.30-04.10.49:583][535]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.30-04.10.49:583][535]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.30-04.10.49:583][535]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.30-04.10.49:583][535]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.30-04.10.49:583][535]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.30-04.10.49:583][535]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.30-04.10.52:606][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.08.30-04.10.52:609][755]LogStreaming: Display: FlushAsyncLoading(781): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.30-04.10.52:610][755]LogChaosDD: Creating Chaos Debug Draw Scene for world MainWorld
+[2026.08.30-04.10.52:611][755]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainWorld.MainWorld
+[2026.08.30-04.10.52:611][755]Cmd: MAP LOAD FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.08.30-04.10.52:630][755]LogWorld: UWorld::CleanupWorld for Lookdev, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.10.52:630][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.10.52:630][755]LogWorld: UWorld::CleanupWorld for character, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.10.52:630][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.10.52:630][755]LogWorld: UWorld::CleanupWorld for LA, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.10.52:630][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.10.52:630][755]LogWorld: UWorld::CleanupWorld for Light, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.10.52:630][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.10.52:654][755]LogAudio: Display: Audio Device unregistered from world 'Lookdev'.
+[2026.08.30-04.10.52:655][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.08.30-04.10.52:659][755]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.10.52:659][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.10.52:683][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.08.30-04.10.52:779][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.08.30-04.10.52:783][755]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainWorld'.
+[2026.08.30-04.10.52:783][755]LogChaosDD: Creating Chaos Debug Draw Scene for world MainWorld
+[2026.08.30-04.10.52:785][755]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Light) is flushing async loading
+[2026.08.30-04.10.52:805][755]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.08.30-04.10.52:830][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.08.30-04.10.52:838][755]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.08.30-04.10.52:838][755]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2026.08.30-04.10.52:884][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.08.30-04.10.52:954][757]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.08.30-04.10.56:989][156]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2026.08.30-04.10.57:000][156]LogContentBrowser: Creating deferred item: NewWorld
+[2026.08.30-04.10.57:019][157]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2026.08.30-04.11.03:722][885]LogContentBrowser: Attempting asset rename: NewWorld -> MainWorld_LA
+[2026.08.30-04.11.03:723][885]LogChaosDD: Creating Chaos Debug Draw Scene for world MainWorld_LA
+[2026.08.30-04.11.03:728][885]LogContentBrowser: End creating deferred item NewWorld
+[2026.08.30-04.11.04:640][975]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.30-04.11.04:699][975]LogFileHelpers: Saving Map: /Game/Maps/MainWorld_LA
+[2026.08.30-04.11.04:699][975]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/MainWorld_LA] ([1] browsable assets)...
+[2026.08.30-04.11.04:699][975]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/MainWorld_LA]
+[2026.08.30-04.11.04:699][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainWorld_LA" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld_LA.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.30-04.11.04:728][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.08.30-04.11.04:737][975]LogSavePackage: Moving output files for package: /Game/Maps/MainWorld_LA
+[2026.08.30-04.11.04:737][975]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/MainWorld_LAEDADD86E49CB026878A014A20CDA0297.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld_LA.umap'
+[2026.08.30-04.11.04:753][975]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.486 ms (total: 19.7 sec)
+[2026.08.30-04.11.04:811][975]LogContentValidation: Enabled validators:
+[2026.08.30-04.11.04:811][975]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.30-04.11.04:811][975]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.30-04.11.04:811][975]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.30-04.11.04:811][975]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.30-04.11.04:811][975]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.30-04.11.04:811][975]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.30-04.11.04:811][975]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.30-04.11.04:811][975]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.30-04.11.04:811][975]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.30-04.11.04:811][975]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.08.30-04.11.04:811][975]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.30-04.11.04:811][975]AssetCheck: /Game/Maps/MainWorld_LA Validating asset
+[2026.08.30-04.11.04:812][975]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.30-04.11.04:812][975]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.30-04.11.04:812][975]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.30-04.11.04:812][975]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.08.30-04.11.04:812][975]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.30-04.11.04:812][975]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.30-04.11.04:812][975]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.30-04.11.04:812][975]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.30-04.11.04:812][975]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.30-04.11.04:812][975]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.30-04.11.04:876][975]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UE_LocalProject/GitForUE5/AProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.08.30-04.11.07:767][231]LogActorFactory: Actor Factory attempting to spawn World /Game/Maps/MainWorld_LA.MainWorld_LA
+[2026.08.30-04.11.07:767][231]LogActorFactory: Actor Factory attempting to spawn World /Game/Maps/MainWorld_LA.MainWorld_LA
+[2026.08.30-04.11.08:341][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.08.30-04.11.08:343][283]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2026.08.30-04.11.14:534][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.30-04.11.14:589][872]LogFileHelpers: Saving Map: /Game/Maps/MainWorld
+[2026.08.30-04.11.14:590][872]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/MainWorld] ([1] browsable assets)...
+[2026.08.30-04.11.14:590][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/MainWorld]
+[2026.08.30-04.11.14:590][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainWorld" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.30-04.11.14:627][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.08.30-04.11.14:639][872]LogSavePackage: Moving output files for package: /Game/Maps/MainWorld
+[2026.08.30-04.11.14:639][872]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/MainWorld755471D7429BF710A7807785F0AB6ACA.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld.umap'
+[2026.08.30-04.11.14:658][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.468 ms (total: 19.8 sec)
+[2026.08.30-04.11.14:724][872]LogContentValidation: Enabled validators:
+[2026.08.30-04.11.14:724][872]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.30-04.11.14:724][872]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.30-04.11.14:724][872]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.30-04.11.14:724][872]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.30-04.11.14:724][872]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.30-04.11.14:724][872]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.30-04.11.14:724][872]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.30-04.11.14:724][872]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.30-04.11.14:724][872]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.30-04.11.14:724][872]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.08.30-04.11.14:724][872]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.30-04.11.14:724][872]AssetCheck: /Game/Maps/MainWorld Validating asset
+[2026.08.30-04.11.14:724][872]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.30-04.11.14:724][872]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.30-04.11.14:724][872]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.30-04.11.14:724][872]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.08.30-04.11.14:724][872]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.30-04.11.14:725][872]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.30-04.11.14:725][872]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.30-04.11.14:725][872]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.30-04.11.14:725][872]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.30-04.11.14:725][872]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.30-04.11.20:744][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.08.30-04.11.20:747][427]LogStreaming: Display: FlushAsyncLoading(784): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.30-04.11.20:749][427]LogChaosDD: Creating Chaos Debug Draw Scene for world Lookdev
+[2026.08.30-04.11.20:751][427]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Lookdev.Lookdev
+[2026.08.30-04.11.20:751][427]Cmd: MAP LOAD FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Lookdev.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.08.30-04.11.20:769][427]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.11.20:769][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.11.20:770][427]LogWorld: UWorld::CleanupWorld for Light, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.11.20:770][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.11.20:770][427]LogWorld: UWorld::CleanupWorld for MainWorld_LA, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.11.20:770][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.11.20:794][427]LogAudio: Display: Audio Device unregistered from world 'MainWorld'.
+[2026.08.30-04.11.20:794][427]LogWorld: Warning: UWorld::FinishDestroy called after InitWorld without calling CleanupWorld first.
+[2026.08.30-04.11.20:796][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.08.30-04.11.20:800][427]LogWorld: UWorld::CleanupWorld for Lookdev, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.11.20:800][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.11.20:821][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.08.30-04.11.20:903][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.08.30-04.11.20:907][427]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lookdev'.
+[2026.08.30-04.11.20:907][427]LogChaosDD: Creating Chaos Debug Draw Scene for world Lookdev
+[2026.08.30-04.11.20:911][427]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Light) is flushing async loading
+[2026.08.30-04.11.20:913][427]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/character) is flushing async loading
+[2026.08.30-04.11.20:914][427]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/LA) is flushing async loading
+[2026.08.30-04.11.20:932][427]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.08.30-04.11.20:958][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.08.30-04.11.20:966][427]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.08.30-04.11.20:967][427]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.099ms to complete.
+[2026.08.30-04.11.21:013][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.08.30-04.11.21:081][429]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.08.30-04.11.24:421][654]Cmd: EDIT COPY
+[2026.08.30-04.11.25:367][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.08.30-04.11.25:371][697]LogStreaming: Display: FlushAsyncLoading(789): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.30-04.11.25:373][697]LogChaosDD: Creating Chaos Debug Draw Scene for world MainWorld_LA
+[2026.08.30-04.11.25:376][697]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainWorld_LA.MainWorld_LA
+[2026.08.30-04.11.25:376][697]Cmd: MAP LOAD FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld_LA.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.08.30-04.11.25:395][697]LogWorld: UWorld::CleanupWorld for Lookdev, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.11.25:395][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.11.25:395][697]LogWorld: UWorld::CleanupWorld for Light, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.11.25:395][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.11.25:395][697]LogWorld: UWorld::CleanupWorld for character, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.11.25:395][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.11.25:395][697]LogWorld: UWorld::CleanupWorld for LA, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.11.25:395][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.11.25:425][697]LogAudio: Display: Audio Device unregistered from world 'Lookdev'.
+[2026.08.30-04.11.25:426][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.08.30-04.11.25:429][697]LogWorld: UWorld::CleanupWorld for MainWorld_LA, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.11.25:429][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.11.25:457][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.08.30-04.11.25:548][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.08.30-04.11.25:552][697]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainWorld_LA'.
+[2026.08.30-04.11.25:552][697]LogChaosDD: Creating Chaos Debug Draw Scene for world MainWorld_LA
+[2026.08.30-04.11.25:572][697]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.08.30-04.11.25:617][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.08.30-04.11.25:631][697]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.08.30-04.11.25:631][697]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.113ms to complete.
+[2026.08.30-04.11.25:694][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.08.30-04.11.25:727][698]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.08.30-04.11.26:231][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.08.30-04.11.26:237][736]LogStreaming: Display: FlushAsyncLoading(791): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.30-04.11.26:240][736]LogChaosDD: Creating Chaos Debug Draw Scene for world MainWorld
+[2026.08.30-04.11.26:241][736]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainWorld.MainWorld
+[2026.08.30-04.11.26:241][736]Cmd: MAP LOAD FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.08.30-04.11.26:255][736]LogWorld: UWorld::CleanupWorld for MainWorld_LA, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.11.26:255][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.11.26:282][736]LogAudio: Display: Audio Device unregistered from world 'MainWorld_LA'.
+[2026.08.30-04.11.26:283][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.08.30-04.11.26:286][736]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.11.26:286][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.11.26:311][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.08.30-04.11.26:409][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.08.30-04.11.26:412][736]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainWorld'.
+[2026.08.30-04.11.26:413][736]LogChaosDD: Creating Chaos Debug Draw Scene for world MainWorld
+[2026.08.30-04.11.26:415][736]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/MainWorld_LA) is flushing async loading
+[2026.08.30-04.11.26:416][736]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Light) is flushing async loading
+[2026.08.30-04.11.26:436][736]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.08.30-04.11.26:464][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.08.30-04.11.26:475][736]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.08.30-04.11.26:475][736]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.083ms to complete.
+[2026.08.30-04.11.26:563][738]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.08.30-04.11.29:379][  7]Cmd: EDIT PASTE
+[2026.08.30-04.11.30:345][ 76]Cmd: SELECT NONE
+[2026.08.30-04.12.11:029][136]Cmd: SELECT NONE
+[2026.08.30-04.13.01:836][523]Cmd: SELECT NONE
+[2026.08.30-04.13.02:876][623]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.08.30-04.13.02:883][623]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.08.30-04.13.02:883][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.08.30-04.13.02:884][623]LogPlayLevel: Display: Creating online subsystem for client :Context_39
+[2026.08.30-04.13.02:888][623]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2026.08.30-04.13.02:901][624]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainWorld
+[2026.08.30-04.13.02:902][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001096s)
+[2026.08.30-04.13.02:902][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainWorld.MainWorld to /Game/Maps/UEDPIE_0_MainWorld.MainWorld (0.001170s)
+[2026.08.30-04.13.02:932][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.08.30-04.13.02:939][624]LogChaosDD: Creating Chaos Debug Draw Scene for world MainWorld
+[2026.08.30-04.13.02:942][624]LogPlayLevel: PIE: World Init took: (0.002972s)
+[2026.08.30-04.13.02:942][624]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.08.30-04.13.02:942][624]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.08.30-04.13.02:942][624]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.08.30-04.13.02:942][624]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.08.30-04.13.02:942][624]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.08.30-04.13.02:942][624]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.08.30-04.13.02:942][624]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.08.30-04.13.02:942][624]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.08.30-04.13.02:942][624]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.08.30-04.13.02:942][624]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.08.30-04.13.02:942][624]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.08.30-04.13.02:942][624]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.08.30-04.13.02:942][624]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.08.30-04.13.02:942][624]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.08.30-04.13.02:987][624]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='扬声器 (Legion R360)'
+[2026.08.30-04.13.02:995][624]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='麦克风 (Legion R360)'
+[2026.08.30-04.13.03:008][624]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='扬声器 (Legion R360)'
+[2026.08.30-04.13.03:015][624]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='麦克风 (Legion R360)'
+[2026.08.30-04.13.03:027][624]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='扬声器 (Legion R360)'
+[2026.08.30-04.13.03:035][624]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='麦克风 (Legion R360)'
+[2026.08.30-04.13.03:041][624]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.08.30-04.13.03:041][624]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.08.30-04.13.03:041][624]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.08.30-04.13.03:042][624]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.08.30-04.13.03:047][624]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.08.30-04.13.03:047][624]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.08.30-04.13.03:047][624]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.08.30-04.13.03:047][624]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Legion R360)
+[2026.08.30-04.13.03:048][624]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.08.30-04.13.03:048][624]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.08.30-04.13.03:048][624]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.08.30-04.13.03:048][624]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.08.30-04.13.03:051][624]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.08.30-04.13.03:054][624]LogInit: FAudioDevice initialized with ID 10.
+[2026.08.30-04.13.03:054][624]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainWorld'.
+[2026.08.30-04.13.03:054][624]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.08.30-04.13.03:120][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.30-04.13.03:120][624]LogLoad: Game class is 'GameModeBase'
+[2026.08.30-04.13.03:121][624]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2026.08.30-12.13.03
+[2026.08.30-04.13.03:121][624]LogWorld: Bringing up level for play took: 0.000418
+[2026.08.30-04.13.03:122][624]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.08.30-04.13.03:130][624]PIE: Server logged in
+[2026.08.30-04.13.03:132][624]PIE: Play in editor total start time 0.249 seconds.
+[2026.08.30-04.13.03:248][625]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.08.30-04.13.05:875][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.30-04.13.05:875][873]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainWorld
+[2026.08.30-04.13.05:876][873]LogSlate: Window 'AProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.08.30-04.13.05:890][873]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.13.05:891][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.13.05:891][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.08.30-04.13.05:900][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.13.05:936][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.30-04.13.05:936][873]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.08.30-04.13.05:936][873]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=10, StreamState=4
+[2026.08.30-04.13.05:949][873]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.08.30-04.13.05:958][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.08.30-04.13.06:005][874]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2026.08.30-04.13.11:735][345]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Light] ([1] browsable assets)...
+[2026.08.30-04.13.11:735][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Light]
+[2026.08.30-04.13.11:735][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Light" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Light.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.30-04.13.11:763][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.08.30-04.13.11:784][345]LogSavePackage: Moving output files for package: /Game/Maps/Light
+[2026.08.30-04.13.11:784][345]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/Light485C2AB448135725BD54D79E3C5BC71A.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Light.umap'
+[2026.08.30-04.13.11:853][345]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/MainWorld_LA] ([1] browsable assets)...
+[2026.08.30-04.13.11:853][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/MainWorld_LA]
+[2026.08.30-04.13.11:853][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainWorld_LA" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld_LA.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.30-04.13.11:879][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.08.30-04.13.11:891][345]LogSavePackage: Moving output files for package: /Game/Maps/MainWorld_LA
+[2026.08.30-04.13.11:892][345]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/MainWorld_LA54173B66487C3CAB95A447B25645536F.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld_LA.umap'
+[2026.08.30-04.13.12:137][345]LogContentValidation: Enabled validators:
+[2026.08.30-04.13.12:137][345]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.30-04.13.12:137][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.30-04.13.12:137][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.30-04.13.12:137][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.30-04.13.12:137][345]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.30-04.13.12:137][345]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.30-04.13.12:137][345]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.30-04.13.12:137][345]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.30-04.13.12:137][345]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.30-04.13.12:137][345]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.08.30-04.13.12:137][345]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.30-04.13.12:138][345]AssetCheck: /Game/Maps/Light Validating asset
+[2026.08.30-04.13.12:138][345]AssetCheck: /Game/Maps/MainWorld_LA Validating asset
+[2026.08.30-04.13.12:138][345]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.30-04.13.12:138][345]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.30-04.13.12:138][345]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.30-04.13.12:138][345]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.08.30-04.13.12:138][345]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.30-04.13.12:138][345]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.30-04.13.12:138][345]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.30-04.13.12:138][345]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.30-04.13.12:138][345]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.30-04.13.12:138][345]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.30-04.13.14:763][576]LogStreaming: Display: FlushAsyncLoading(795): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.30-04.13.14:765][576]LogChaosDD: Creating Chaos Debug Draw Scene for world Lookdev
+[2026.08.30-04.13.14:769][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.30-04.13.14:825][576]LogFileHelpers: Saving Map: /Game/Maps/Light
+[2026.08.30-04.13.14:825][576]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Light] ([1] browsable assets)...
+[2026.08.30-04.13.14:825][576]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Light]
+[2026.08.30-04.13.14:825][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Light" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Light.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.30-04.13.14:850][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.08.30-04.13.14:867][576]LogSavePackage: Moving output files for package: /Game/Maps/Light
+[2026.08.30-04.13.14:868][576]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/LightD9AB294B443E7140D763F5B5FE7F415A.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Light.umap'
+[2026.08.30-04.13.14:870][576]LogFileHelpers: Saving Map: /Game/Maps/Lookdev
+[2026.08.30-04.13.14:871][576]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Lookdev] ([1] browsable assets)...
+[2026.08.30-04.13.14:871][576]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Lookdev]
+[2026.08.30-04.13.14:871][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lookdev" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Lookdev.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.30-04.13.14:893][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.08.30-04.13.14:903][576]LogSavePackage: Moving output files for package: /Game/Maps/Lookdev
+[2026.08.30-04.13.14:903][576]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/Lookdev0B577CDF4E87CBABA9F44E8236251310.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Lookdev.umap'
+[2026.08.30-04.13.14:907][576]LogFileHelpers: Saving Map: /Game/Maps/MainWorld
+[2026.08.30-04.13.14:908][576]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/MainWorld] ([1] browsable assets)...
+[2026.08.30-04.13.14:908][576]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/MainWorld]
+[2026.08.30-04.13.14:908][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainWorld" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.30-04.13.14:941][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.08.30-04.13.14:951][576]LogSavePackage: Moving output files for package: /Game/Maps/MainWorld
+[2026.08.30-04.13.14:952][576]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/MainWorld25CEDDC844FED56B907F86A99E87EF3A.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld.umap'
+[2026.08.30-04.13.14:961][576]LogFileHelpers: Saving Map: /Game/Maps/MainWorld_LA
+[2026.08.30-04.13.14:961][576]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/MainWorld_LA] ([1] browsable assets)...
+[2026.08.30-04.13.14:961][576]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/MainWorld_LA]
+[2026.08.30-04.13.14:961][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainWorld_LA" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld_LA.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.30-04.13.14:985][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.08.30-04.13.14:995][576]LogSavePackage: Moving output files for package: /Game/Maps/MainWorld_LA
+[2026.08.30-04.13.14:995][576]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/MainWorld_LA5F7ED33B46FC81EE1F5216984C36834F.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld_LA.umap'
+[2026.08.30-04.13.15:009][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 239.144 ms (total: 20.0 sec)
+[2026.08.30-04.13.15:071][576]LogContentValidation: Enabled validators:
+[2026.08.30-04.13.15:071][576]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.30-04.13.15:071][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.30-04.13.15:071][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.30-04.13.15:071][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.30-04.13.15:071][576]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.30-04.13.15:071][576]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.30-04.13.15:071][576]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.30-04.13.15:071][576]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.30-04.13.15:071][576]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.30-04.13.15:071][576]LogContentValidation: Display: Starting to validate 4 assets (0 associated objects such as actors)
+[2026.08.30-04.13.15:071][576]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.30-04.13.15:071][576]AssetCheck: /Game/Maps/Light Validating asset
+[2026.08.30-04.13.15:072][576]AssetCheck: /Game/Maps/Lookdev Validating asset
+[2026.08.30-04.13.15:072][576]AssetCheck: /Game/Maps/MainWorld Validating asset
+[2026.08.30-04.13.15:072][576]AssetCheck: /Game/Maps/MainWorld_LA Validating asset
+[2026.08.30-04.13.15:072][576]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.30-04.13.15:072][576]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.30-04.13.15:072][576]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.30-04.13.15:072][576]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 4
+[2026.08.30-04.13.15:072][576]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.30-04.13.15:072][576]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.30-04.13.15:072][576]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.30-04.13.15:072][576]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.30-04.13.15:072][576]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.30-04.13.15:072][576]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.30-04.14.01:487][954]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.08.30-04.14.01:496][954]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.08.30-04.14.01:496][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.08.30-04.14.01:496][954]LogPlayLevel: Display: Creating online subsystem for client :Context_40
+[2026.08.30-04.14.01:500][954]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2026.08.30-04.14.01:509][955]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainWorld
+[2026.08.30-04.14.01:512][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001423s)
+[2026.08.30-04.14.01:512][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainWorld.MainWorld to /Game/Maps/UEDPIE_0_MainWorld.MainWorld (0.001500s)
+[2026.08.30-04.14.01:536][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.08.30-04.14.01:538][955]LogChaosDD: Creating Chaos Debug Draw Scene for world MainWorld
+[2026.08.30-04.14.01:541][955]LogPlayLevel: PIE: World Init took: (0.002691s)
+[2026.08.30-04.14.01:541][955]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.08.30-04.14.01:541][955]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.08.30-04.14.01:541][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.08.30-04.14.01:541][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.08.30-04.14.01:541][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.08.30-04.14.01:541][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.08.30-04.14.01:541][955]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.08.30-04.14.01:541][955]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.08.30-04.14.01:541][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.08.30-04.14.01:541][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.08.30-04.14.01:541][955]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.08.30-04.14.01:541][955]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.08.30-04.14.01:541][955]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.08.30-04.14.01:541][955]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.08.30-04.14.01:585][955]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='扬声器 (Legion R360)'
+[2026.08.30-04.14.01:594][955]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='麦克风 (Legion R360)'
+[2026.08.30-04.14.01:607][955]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='扬声器 (Legion R360)'
+[2026.08.30-04.14.01:615][955]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='麦克风 (Legion R360)'
+[2026.08.30-04.14.01:628][955]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='扬声器 (Legion R360)'
+[2026.08.30-04.14.01:638][955]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='麦克风 (Legion R360)'
+[2026.08.30-04.14.01:643][955]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.08.30-04.14.01:643][955]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.08.30-04.14.01:644][955]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.08.30-04.14.01:644][955]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.08.30-04.14.01:649][955]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.08.30-04.14.01:649][955]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.08.30-04.14.01:649][955]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.08.30-04.14.01:649][955]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Legion R360)
+[2026.08.30-04.14.01:649][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.08.30-04.14.01:649][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.08.30-04.14.01:649][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.08.30-04.14.01:650][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.08.30-04.14.01:652][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.08.30-04.14.01:654][955]LogInit: FAudioDevice initialized with ID 11.
+[2026.08.30-04.14.01:654][955]LogAudio: Display: Audio Device (ID: 11) registered with world 'MainWorld'.
+[2026.08.30-04.14.01:654][955]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.08.30-04.14.01:716][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.30-04.14.01:716][955]LogLoad: Game class is 'GameModeBase'
+[2026.08.30-04.14.01:720][955]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2026.08.30-12.14.01
+[2026.08.30-04.14.01:720][955]LogWorld: Bringing up level for play took: 0.000368
+[2026.08.30-04.14.01:720][955]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.08.30-04.14.01:726][955]PIE: Server logged in
+[2026.08.30-04.14.01:730][955]PIE: Play in editor total start time 0.234 seconds.
+[2026.08.30-04.14.01:899][956]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.08.30-04.14.03:815][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.30-04.14.03:815][121]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainWorld
+[2026.08.30-04.14.03:816][121]LogSlate: Window 'AProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.08.30-04.14.03:825][121]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.14.03:825][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.14.03:826][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.08.30-04.14.03:831][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.14.03:854][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.30-04.14.03:856][121]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.08.30-04.14.03:856][121]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=11, StreamState=4
+[2026.08.30-04.14.03:865][121]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.08.30-04.14.03:869][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.08.30-04.14.03:902][122]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2026.08.30-04.14.03:929][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.08.30-04.14.09:386][634]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.08.30-04.14.09:386][634]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.08.30-04.14.09:386][634]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftInputAction has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.08.30-04.14.09:386][634]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.08.30-04.14.09:386][634]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.08.30-04.14.21:209][723]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 83557.242188
+[2026.08.30-04.14.21:491][738]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-04.14.21:491][738]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 83557.507812, Update Interval: 331.756958
+[2026.08.30-04.14.26:636][244]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2026.08.30-04.14.26:636][244]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2026.08.30-04.14.26:636][244]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/MainWorld_LA.MainWorld_LA:PersistentLevel.PlayerStart_0
+[2026.08.30-04.14.26:637][244]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.08.30-04.14.26:637][244]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/MainWorld_LA.MainWorld_LA:PersistentLevel.PlayerStart_0
+[2026.08.30-04.14.26:637][244]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.08.30-04.14.27:358][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.08.30-04.14.27:362][297]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2026.08.30-04.14.29:501][297]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2026.08.30-04.14.29:511][297]Message dialog closed, result: Cancel, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2026.08.30-04.14.29:511][297]LogEditor: Attempting to add actor of class 'PlayerStart' to level at 837.55,-14683.81,92.00
+[2026.08.30-04.14.29:514][297]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.08.30-04.14.45:680][715]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.08.30-04.14.46:591][789]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.08.30-04.14.46:598][789]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.08.30-04.14.46:598][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.08.30-04.14.46:598][789]LogPlayLevel: Display: Creating online subsystem for client :Context_41
+[2026.08.30-04.14.46:601][789]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2026.08.30-04.14.46:619][790]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainWorld
+[2026.08.30-04.14.46:620][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000926s)
+[2026.08.30-04.14.46:620][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainWorld.MainWorld to /Game/Maps/UEDPIE_0_MainWorld.MainWorld (0.000984s)
+[2026.08.30-04.14.46:642][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.08.30-04.14.46:645][790]LogChaosDD: Creating Chaos Debug Draw Scene for world MainWorld
+[2026.08.30-04.14.46:648][790]LogPlayLevel: PIE: World Init took: (0.003092s)
+[2026.08.30-04.14.46:648][790]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.08.30-04.14.46:648][790]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.08.30-04.14.46:648][790]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.08.30-04.14.46:648][790]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.08.30-04.14.46:648][790]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.08.30-04.14.46:648][790]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.08.30-04.14.46:649][790]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.08.30-04.14.46:649][790]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.08.30-04.14.46:649][790]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.08.30-04.14.46:649][790]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.08.30-04.14.46:649][790]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.08.30-04.14.46:649][790]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.08.30-04.14.46:649][790]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.08.30-04.14.46:649][790]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.08.30-04.14.46:694][790]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='扬声器 (Legion R360)'
+[2026.08.30-04.14.46:702][790]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='麦克风 (Legion R360)'
+[2026.08.30-04.14.46:715][790]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='扬声器 (Legion R360)'
+[2026.08.30-04.14.46:725][790]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='麦克风 (Legion R360)'
+[2026.08.30-04.14.46:737][790]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='扬声器 (Legion R360)'
+[2026.08.30-04.14.46:746][790]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='麦克风 (Legion R360)'
+[2026.08.30-04.14.46:752][790]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.08.30-04.14.46:752][790]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.08.30-04.14.46:752][790]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.08.30-04.14.46:753][790]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.08.30-04.14.46:758][790]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.08.30-04.14.46:758][790]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.08.30-04.14.46:758][790]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.08.30-04.14.46:758][790]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Legion R360)
+[2026.08.30-04.14.46:758][790]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.08.30-04.14.46:758][790]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.08.30-04.14.46:758][790]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.08.30-04.14.46:759][790]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.08.30-04.14.46:761][790]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.08.30-04.14.46:763][790]LogInit: FAudioDevice initialized with ID 12.
+[2026.08.30-04.14.46:763][790]LogAudio: Display: Audio Device (ID: 12) registered with world 'MainWorld'.
+[2026.08.30-04.14.46:763][790]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.08.30-04.14.46:819][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.30-04.14.46:819][790]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.08.30-04.14.46:824][790]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2026.08.30-12.14.46
+[2026.08.30-04.14.46:824][790]LogWorld: Bringing up level for play took: 0.000347
+[2026.08.30-04.14.46:825][790]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.08.30-04.14.46:832][790]PIE: Server logged in
+[2026.08.30-04.14.46:835][790]PIE: Play in editor total start time 0.237 seconds.
+[2026.08.30-04.14.46:986][791]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.08.30-04.14.51:652][123]Cmd: DebugManager.CycleToPreviousColumn
+[2026.08.30-04.15.26:608][714]Cmd: DebugManager.CycleToPreviousColumn
+[2026.08.30-04.15.40:537][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.30-04.15.40:537][749]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainWorld
+[2026.08.30-04.15.40:538][749]LogSlate: Window 'AProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.08.30-04.15.40:548][749]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.15.40:548][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.15.40:549][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.08.30-04.15.40:555][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.15.40:578][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.30-04.15.40:579][749]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.08.30-04.15.40:579][749]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=12, StreamState=4
+[2026.08.30-04.15.40:589][749]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.08.30-04.15.40:597][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.08.30-04.15.40:647][750]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2026.08.30-04.15.40:675][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.08.30-04.15.44:319][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.30-04.15.44:380][ 33]LogFileHelpers: Saving Map: /Game/Maps/Light
+[2026.08.30-04.15.44:380][ 33]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Light] ([1] browsable assets)...
+[2026.08.30-04.15.44:380][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Light]
+[2026.08.30-04.15.44:380][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Light" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Light.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.30-04.15.44:404][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.08.30-04.15.44:422][ 33]LogSavePackage: Moving output files for package: /Game/Maps/Light
+[2026.08.30-04.15.44:423][ 33]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/LightE0CB124C4699CBB4A5C41DB14EE2CDDD.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Light.umap'
+[2026.08.30-04.15.44:426][ 33]LogFileHelpers: Saving Map: /Game/Maps/Lookdev
+[2026.08.30-04.15.44:427][ 33]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Lookdev] ([1] browsable assets)...
+[2026.08.30-04.15.44:427][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Lookdev]
+[2026.08.30-04.15.44:427][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lookdev" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Lookdev.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.30-04.15.44:448][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.08.30-04.15.44:459][ 33]LogSavePackage: Moving output files for package: /Game/Maps/Lookdev
+[2026.08.30-04.15.44:460][ 33]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/Lookdev3CFF05A343E4D4FDC7BFE3B5E6F2D6E1.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Lookdev.umap'
+[2026.08.30-04.15.44:462][ 33]LogFileHelpers: Saving Map: /Game/Maps/MainWorld
+[2026.08.30-04.15.44:462][ 33]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/MainWorld] ([1] browsable assets)...
+[2026.08.30-04.15.44:462][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/MainWorld]
+[2026.08.30-04.15.44:462][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainWorld" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.30-04.15.44:495][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.08.30-04.15.44:505][ 33]LogSavePackage: Moving output files for package: /Game/Maps/MainWorld
+[2026.08.30-04.15.44:506][ 33]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/MainWorldC393551149C4A69AF6B5FFA64F454FEE.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld.umap'
+[2026.08.30-04.15.44:514][ 33]LogFileHelpers: Saving Map: /Game/Maps/MainWorld_LA
+[2026.08.30-04.15.44:514][ 33]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/MainWorld_LA] ([1] browsable assets)...
+[2026.08.30-04.15.44:514][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/MainWorld_LA]
+[2026.08.30-04.15.44:514][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainWorld_LA" FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld_LA.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.08.30-04.15.44:537][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.08.30-04.15.44:549][ 33]LogSavePackage: Moving output files for package: /Game/Maps/MainWorld_LA
+[2026.08.30-04.15.44:549][ 33]LogSavePackage: Moving '../../../../UE_LocalProject/GitForUE5/AProject/Saved/MainWorld_LA26756E5B48D98239E0A030AB156722EB.tmp' to '../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/MainWorld_LA.umap'
+[2026.08.30-04.15.44:562][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 243.480 ms (total: 20.3 sec)
+[2026.08.30-04.15.44:631][ 33]LogContentValidation: Enabled validators:
+[2026.08.30-04.15.44:631][ 33]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.30-04.15.44:631][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.30-04.15.44:631][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.30-04.15.44:631][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.30-04.15.44:631][ 33]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.30-04.15.44:631][ 33]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.30-04.15.44:631][ 33]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.30-04.15.44:631][ 33]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.30-04.15.44:631][ 33]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.30-04.15.44:631][ 33]LogContentValidation: Display: Starting to validate 4 assets (0 associated objects such as actors)
+[2026.08.30-04.15.44:631][ 33]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.30-04.15.44:631][ 33]AssetCheck: /Game/Maps/Light Validating asset
+[2026.08.30-04.15.44:631][ 33]AssetCheck: /Game/Maps/Lookdev Validating asset
+[2026.08.30-04.15.44:631][ 33]AssetCheck: /Game/Maps/MainWorld Validating asset
+[2026.08.30-04.15.44:631][ 33]AssetCheck: /Game/Maps/MainWorld_LA Validating asset
+[2026.08.30-04.15.44:632][ 33]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.30-04.15.44:632][ 33]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.30-04.15.44:632][ 33]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.30-04.15.44:632][ 33]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 4
+[2026.08.30-04.15.44:632][ 33]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.30-04.15.44:632][ 33]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.30-04.15.44:632][ 33]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.30-04.15.44:632][ 33]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.30-04.15.44:632][ 33]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.30-04.15.44:632][ 33]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.30-04.20.38:881][319]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 83938.968750
+[2026.08.30-04.20.39:882][322]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-04.20.39:882][322]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 83939.640625, Update Interval: 347.676636
+[2026.08.30-04.27.09:888][492]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 84332.234375
+[2026.08.30-04.27.10:890][495]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-04.27.10:890][495]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 84332.906250, Update Interval: 301.902527
+[2026.08.30-04.32.47:229][504]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 84671.484375
+[2026.08.30-04.32.48:228][507]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-04.32.48:228][507]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 84672.156250, Update Interval: 325.185089
+[2026.08.30-04.38.54:570][606]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 85040.968750
+[2026.08.30-04.38.55:903][610]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.30-04.38.55:903][610]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 85041.968750, Update Interval: 328.847321
+[2026.08.30-04.42.34:322][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.08.30-04.42.34:326][446]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Lookdev.Lookdev
+[2026.08.30-04.42.34:326][446]Cmd: MAP LOAD FILE="../../../../UE_LocalProject/GitForUE5/AProject/Content/Maps/Lookdev.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.08.30-04.42.34:343][446]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.42.34:343][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.42.34:343][446]LogWorld: UWorld::CleanupWorld for MainWorld_LA, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.42.34:343][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.42.34:343][446]LogWorld: UWorld::CleanupWorld for Light, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.42.34:344][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.42.34:369][446]LogAudio: Display: Audio Device unregistered from world 'MainWorld'.
+[2026.08.30-04.42.34:371][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.08.30-04.42.34:374][446]LogWorld: UWorld::CleanupWorld for Lookdev, bSessionEnded=true, bCleanupResources=true
+[2026.08.30-04.42.34:374][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.30-04.42.34:399][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.08.30-04.42.34:492][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.08.30-04.42.34:494][446]LogStreaming: Display: FlushAsyncLoading(796): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.30-04.42.34:497][446]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lookdev'.
+[2026.08.30-04.42.34:497][446]LogChaosDD: Creating Chaos Debug Draw Scene for world Lookdev
+[2026.08.30-04.42.34:499][446]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/LA) is flushing async loading
+[2026.08.30-04.42.34:502][446]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/character) is flushing async loading
+[2026.08.30-04.42.34:503][446]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Light) is flushing async loading
+[2026.08.30-04.42.34:527][446]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.08.30-04.42.34:555][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.08.30-04.42.34:564][446]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.08.30-04.42.34:564][446]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2026.08.30-04.42.34:609][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.08.30-04.42.34:685][448]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
