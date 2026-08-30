@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "objects": [
+    {
+      "objectId": 295,
+      "name": "rainbot-km-voyager",
+      "installDirName": "rainbot-km-voyager",
+      "installedVersion": 10013,
+      "installedAt": "2026-08-30T05:49:19.860Z",
+      "source": "workshop",
+      "dataType": "extension"
+    },
+    {
+      "objectId": 336,
+      "name": "rainbot-tapd-mariner",
+      "installDirName": "rainbot-tapd-mariner",
+      "installedVersion": 10002,
+      "installedAt": "2026-08-30T05:49:19.931Z",
+      "source": "workshop",
+      "dataType": "extension"
+    },
+    {
+      "objectId": 414,
+      "name": "uc-presubmit",
+      "installDirName": "uc-presubmit",
+      "installedVersion": 10060,
+      "installedAt": "2026-08-30T05:49:20.045Z",
+      "source": "workshop",
+      "dataType": "extension"
+    }
+  ]
+}
